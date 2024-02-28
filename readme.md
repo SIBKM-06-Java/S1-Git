@@ -35,4 +35,3 @@
 <p align="center">
   <img src="img/7.PNG" />
 </p>
-Langkah Selanjutnya Belum dilakukan Karena branch default dari github berubah.
