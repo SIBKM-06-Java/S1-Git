@@ -65,3 +65,17 @@ $ git log --all --decorate --oneline --graph
 
 1. Melakukan commit pada file saat ini
    ![Melakukan commit pada file saat ini](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/threeway1.png)
+   tambahkan file ke stages
+
+```
+$ git add <nama_file>
+```
+
+tambahkan pesan dan commit
+
+```
+$ git commit -m "<pesan>"
+```
+
+2. buat typo disini update lalu pindah branch
+   ![Melakukan commit pada file saat ini](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/threeway1.png)
