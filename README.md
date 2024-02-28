@@ -8,4 +8,4 @@ Tales of Vesperia
 ## Velvet Crowe
 Tales of Berseria
 ## Alphen
-Tales of Arisegit a
+Tales of Arise
