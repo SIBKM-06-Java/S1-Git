@@ -9,27 +9,27 @@
 1. Pembuatan Folder Project , File README.md , Inisialisasi repostory , pembuatan parent brnach dan adding readme.md ke repostory.
 </p>
 <p align="center">
-  <img src="img/1.png" />
+  <img src="img/1.PNG" />
 </p>
 2. Pembuatan Child branch dan adding readme.md ke repostory.
 <p align="center">
-  <img src="img/2.png" />
+  <img src="img/2.PNG" />
 </p>
 3. Pembuatan alias graph untuk menampilkan Log.
 <p align="center">
-  <img src="img/3.png" />
+  <img src="img/3.PNG" />
 </p>
 4. Melakukan koneksi ke repository GitHub. 
 <p align="center">
-  <img src="img/4.png" />
+  <img src="img/4.PNG" />
 </p>
 5. Melakukan Push 
 <p align="center">
-  <img src="img/5.png" />
+  <img src="img/5.PNG" />
 </p>
 6.Melakukan Merge parentMar dengan childMar.
 <p align="center">
-  <img src="img/6.png" />
+  <img src="img/6.PNG" />
 </p>
 7. Melakukan Clone Terhadap git@github.com:SIBKM-06-Java/S1-Git.git
 <p align="center">
