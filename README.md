@@ -148,4 +148,7 @@ $ git branch
 
 4. Kunjungi [halaman pull request](https://github.com/SIBKM-06-Java/S1-Git/pulls) untuk melakukan compare & merge
 
-5.Compare dab merge request jika feature atau pembaruan dari child layak
+5. Buat request baru tentukan `base:<nama_branch_lokasi_merge>` dan `compare:<nama_branch_merge_yang_ingin_digabungkan>`
+   serta tentukan `Reviewers` yan memutuskan kelayakan dalam team dan `Assignees` yang membuat permintaan merge
+
+6. Pull Request akan mempertanyakan kelayakan yang ditentukan `Reviewers`
