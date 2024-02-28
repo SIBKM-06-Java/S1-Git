@@ -82,4 +82,6 @@ setelah menambahkan git add project akan manjadi unmodified yang berasal dari un
   <img src="img_18.png" /></p>
 7. Melakukan Solve Conflict
 <img src="img_19.png" /></p>
+8. Melakukan Merge Request
+<img src="img_20.png" /></p>
 
