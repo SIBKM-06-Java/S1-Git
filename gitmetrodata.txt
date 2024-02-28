@@ -1,3 +1,1 @@
 Selamat datang di materi Git!
-
-Halo ParentBintang!
