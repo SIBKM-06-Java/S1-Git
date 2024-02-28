@@ -69,5 +69,10 @@ setelah menambahkan git add project akan manjadi unmodified yang berasal dari un
   <img src="img_14.png" /></p>
 3. Membuat Branch Baru dengan nama MainAzfa dengan git checkout -b MainAzfa
 <p align="center">
-  <img src="img_15.png" />
-4. Push Ke repository dengan git -push
+  <img src="img_15.png" /></p>
+4. Commit branch MainAzfa dengan git -commit
+<p align="center">
+  <img src="img_16.png" /></p>
+5. Push ke repository dengan git -push
+<p align="center">
+  <img src="img_17.png" /></p>
