@@ -1,4 +1,5 @@
 # Belajar Git & Github
+<br>
 
 ## Membuat Repository Local dan Push ke Github
 - **STEP 1** - Lakukan initialisasi pada folder yang sudah dibuat dengan `git init`
@@ -30,3 +31,21 @@ Pada tahap ini sebenarnya file/folder kalian sudah masuk kedalam Local Repositor
 **Selamat!!** file dan folder kalian sudah masuk kedalam Repository Remote (Github). Lalu, bagaimana jika kita ingin melakukan commit dan push untuk yang kedua dan seterusnya???
 
 Untuk melakukan Push kembali ke Repository Remote (Github) kalian, cukup lakukan command `git add`, `git commit`, dan `git push`. Berarti kalian hanya perlu mengulangi Step 3, 4, dan 6. 
+
+<br>
+
+# Fast-forward
+Fast-forward adalah proses dimana Git memperbarui pointer seperti HEAD ke commit yang merupakan keturunanannya. Ini terjadi apabila tidak ada perubahan yang berbeda pada Parent dan Child untuk digabungkan, sehingga Git hanya memindahkan pointer ke depan. Berikut adalah contoh dari kondisi fast-forward : 
+
+- **STEP 1** - membuat branch baru untuk dijadikan branch child, menggunakan command `git checkout -b <nama_branch>`.
+
+![Image Git Bash](?raw=true)
+
+Untuk melihat semua branch yang ada pada repository, bisa menggunakan command `git branch`.
+
+![Image Git Bash](?raw=true)
+
+Maka akan tampil semua branch, branch yang aktif biasanya ditandai dengan tulisan berwarna hijau. Jika ingin berpindah branch, bisa menggunakan command `git checkout <nama_branch>`
+
+- **STEP 2** - Silahkan commit file/folder seperti pada langkah-langkah sebelumnya. 
+
