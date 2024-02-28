@@ -63,7 +63,9 @@
     ```bash
     git merge ChildRovines
     ```
+    <img src="./assets/Screenshot (711).png"/>
 13. **Push Ke Repository Github**
     ```bash
     git push origin ParentRovines
     ```
+    <img src="./assets/Screenshot (711).png"/>
