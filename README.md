@@ -16,7 +16,7 @@
 
 4.Menambahkan File Ke Staging Area
 
-![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyu/Image/3_cpy.png?raw=true)
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyu/Image/3_copy.png?raw=true)
 
 5.Melakukam Commit Pada Local Repo
 
