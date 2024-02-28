@@ -1,4 +1,5 @@
 # Belajar Git & Github
+## Tugas 1 - Versioning
 <br>
 
 ## Membuat Repository Local dan Push ke Github
@@ -88,6 +89,4 @@ Three-way merging adalah metode yang digunakan dalam sistem kontrol versi sepert
 
 Setelah berada pada halaman seperti gambar diatas, selanjutnya klik `Complete Merge` untuk menyelesaikan Konflik, pada gambar itu juga kita bisa melihat perubahan apa saja yang ada pada kedua branch dan kita juga bisa melihat perubahan apa saya yang digabungkan.
 
-- **STEP 5** - Setelah selesai langkah terakhir silahkan kalian push ulang perubahan hasil penggabungan kedua branch. setelah selesai kalian bisa langsung melakukan Pull Request tanpa adanya konflik. 
-
-
+- **STEP 5** - Setelah selesai langkah terakhir silahkan kalian push ulang perubahan hasil penggabungan kedua branch. setelah selesai kalian bisa langsung melakukan Pull Request tanpa adanya konflik.
