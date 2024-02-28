@@ -71,4 +71,4 @@ Terjadi konflik antara branch parent dan branch child ketika git pull. Lalu kita
 
 
 #### Langkah 5
-Setelah selesai, maka kita diminta untuk mem-push perubahan yang ada karena adanya perubahan.
+Setelah selesai, maka kita diminta untuk mem-push kembali karena adanya perubahan.
