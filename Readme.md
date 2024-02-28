@@ -90,4 +90,4 @@
 7. **Lakukan Compare Dan Pull request**
     <img src="./assets/Screenshot (716).png"/>
 7. **Ubah Reviewers , Assignees , dan konfirmasi untuk melakukan merge**
-    <img src="./assets/Screenshot (716).png"/>
+    <img src="./assets/Screenshot (720).png"/>
