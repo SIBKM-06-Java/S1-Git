@@ -15,7 +15,7 @@ Terdapat 2 branch:
 Branch Parent akan melakukan merge dengan Branch Child untuk mendapatkan informasinya. Sehingga setelah proses selesai maka Branch Parent akan mendapatkannya tanpa terjadi konflik. pada proses inilah yang dimaksud **fast-forward merge**
 
 ## Preview
-
+### langkah 1
 ![App Screenshot](./images/1_inisialisasi_proyek.png)
 
 Inisialisasi Proyek git repository
@@ -24,7 +24,7 @@ Inisialisasi Proyek git repository
 ```
 ___
 
-
+### langkah 2
 ![App Screenshot](./images/2_git_status_menambah_file1_untracted.png)
 Mengecek perubahan yang terjadi, dimana branch utama menambah file1.txt dan memberi title: Belajar git. Hasilnya memberi tahu bahwa status saat ini, ada file yang masih berada di working directory
 ```bash
@@ -32,7 +32,7 @@ Mengecek perubahan yang terjadi, dimana branch utama menambah file1.txt dan memb
 ```
 ___
 
-
+### langkah 3
 ![App Screenshot](./images/3_git_status_menambah_file1_staging.png)
 Melakukan git add . untuk memindahkan file yang masih ada di working directory ke staging area. Artinya file sudah disiapkan untuk disimpan secara permanen di repository
 ```bash
@@ -44,7 +44,7 @@ Mencek kembali status setelah melakukan git add . , dimana saat ini terdapat sta
 ```
 ___
 
-
+### langkah 4
 ![App Screenshot](./images/4_commit_file1_branch_ParentAhmad.png)
 Melakukan commit dengan message "add file1.txt"
 ```bash
@@ -52,7 +52,7 @@ Melakukan commit dengan message "add file1.txt"
 ```
 ___
 
-
+### langkah 5
 ![App Screenshot](./images/5_log_pertama.png)
 Melihat informasi log commit. disini terlihat bahwa pointer saat ini berada branch utama
 ```bash
@@ -64,12 +64,15 @@ atau
 ```
 ___
 
+### langkah 6
 ![App Screenshot](./images/6_membuat_branch_baru_ChildAhmad.png)
 Membuat branch child
 ```bash
   git branch ChildAhmad
 ```
+
 ___
+### langkah 7
 ![App Screenshot](./images/7_rename_branch_utama_master_ParentAhmad.png)
 rename branch master ke ParentAhmad
 ```bash
@@ -77,6 +80,7 @@ rename branch master ke ParentAhmad
 ```
 
 ___
+### langkah 8
 ![App Screenshot](./images/8_Log_kedua_liat_posisi_branch.png)
 Melihat log kembali setelah menambahkan branch child, dimana brach ParentAhmad dan ChildAhmad berada di posisi yang sejajar.
 ```bash
@@ -85,6 +89,8 @@ Melihat log kembali setelah menambahkan branch child, dimana brach ParentAhmad d
 
 
 ___
+### langkah 9
+
 ![App Screenshot](./images/8.1switch_branch_ke_child.png)
 Pindah branch ke ChildAhmad
 ```bash
@@ -92,6 +98,7 @@ Pindah branch ke ChildAhmad
 ```
 
 ___
+### langkah 10
 ![App Screenshot](./images/9_mengubah_file1_di_branch_ChildAhmad.png)
 Melakukan perubahan pada file1.txt dengan menambahkan deskripsi di branch ChildAhmad. artinya perubahan hanya terlihat di branch ChildAhmad. lalu cek statusnya, sekarang file statusnya dimodifikasi dan berada di working directory.
 ```bash
@@ -100,6 +107,7 @@ Melakukan perubahan pada file1.txt dengan menambahkan deskripsi di branch ChildA
 
 
 ___
+### langkah 11
 ![App Screenshot](./images/10_menambah_file1_ke_staging_dan_cek_status.png)
 Memindahkan file1.txt ke staging area di branch ChildAhmad, lalu cek statusnya. Dan statusnya bahwa perubahan siap untuk di commit
 ```bash
@@ -111,6 +119,7 @@ Memindahkan file1.txt ke staging area di branch ChildAhmad, lalu cek statusnya. 
 ```
 
 ___
+### langkah 12
 ![App Screenshot](./images/11_commit_fil1_di_branch_ChildAhmad.png)
 Commit dan beri pesan pada perubahan yang terjadi ChildAhmad
 ```bash
@@ -119,6 +128,7 @@ Commit dan beri pesan pada perubahan yang terjadi ChildAhmad
 
 
 ___
+### langkah 13
 ![App Screenshot](./images/12_log_ketiga_melihat_posisi_ChildAhmad_mendahului_ParentAhmad.png)
 melakukan log untuk melihat posisi commit saat ini, yang mana ChildAhmad berada 1 diatas ParentAhmad untuk commitnya.
 
@@ -128,6 +138,7 @@ melakukan log untuk melihat posisi commit saat ini, yang mana ChildAhmad berada 
 
 
 ___
+### langkah 14
 ![App Screenshot](./images/13_switch_ke_ParentAhmad.png)
 Pindah branch ke parent
 
@@ -136,6 +147,7 @@ Pindah branch ke parent
 ```
 
 ___
+### langkah 15
 ![App Screenshot](./images/14_log_keempat_melihat_posisi_branch_ParentAhmad_yang_dibawah_ChildAhmad.png)
 melakukan log dan melihat bahwa pointer saat ini berada di ParentAhmad dan dia berada dibawah ChildAhmad. Dan kita bisa lihat didalam file1.txt deskripsi yang ditambahkan oleh branch ChildAhmad sudah tidak ada, karena perubaha itu terjadi hanya di branch ChildAhmad
 
@@ -144,6 +156,7 @@ melakukan log dan melihat bahwa pointer saat ini berada di ParentAhmad dan dia b
 ```
 
 ___
+### langkah 16
 ![App Screenshot](./images/15_merge_ParentAhmad_dengan_ChildAhmad.png)
 Melakukan merge dengan branch ChildAhmad, yang mana semua perubahan yang ada di CildAhmad akan ditarik ke branch ParentAhmad. Kita dapat melihatnnya di dile1.txt bahwa deksripsinya sekarang sudah ada
 
