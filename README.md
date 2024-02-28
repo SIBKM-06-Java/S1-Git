@@ -1,11 +1,11 @@
-# Hello Teman-Teman
-
-## Semangat...
-
-## Fast Forward Example - Text 1
-
-## Pasti dong
-
-## Three Way Merging - develop
-
-## Three Way Merging - Main
+# List Main Character
+## Luke Fon Fabre
+Tales of the Abyss
+## Ruca Milda
+Tales of Innocence
+## Yuri Lowell
+Tales of Vesperia
+## Velvet Crowe
+Tales of Berseria
+## Alphen
+Tales of Arisegit a
