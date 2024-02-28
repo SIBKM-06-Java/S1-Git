@@ -55,6 +55,7 @@ Setelah berada di master, lakukan merge dengan command git merge childBintang
 Setelah berada di master, lakukan merge dengan command git merge childBintang
 ![](img/Langkah8.png)
 
+
 ## Three Way Merge
 #
 #### Langkah 1
@@ -63,3 +64,16 @@ Push child branch ke repository.
 
 #### Langkah 2
 Setelah di-push ke github repository, kita membuka salah satu file yang sama di branch parent dan child untuk melakukan perubahan agar terjadi konflik.
+
+
+#### Langkah 3
+Menuju ke branch child untuk melakukan git pull terhadap branch parent menggunakan git pull ParentBintang.
+
+
+#### Langkah 4
+Terjadi konflik antara branch parent dan branch child ketika git pull. Lalu kita bisa menggabungkan perbedaan pada kedua branch tersebut dengan Accept Both Changes.
+![](img/Langkah4Three.png)
+
+
+#### Langkah 5
+Setelah selesai, maka kita diminta untuk mem-push kembali karena adanya perubahan.
