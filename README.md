@@ -25,5 +25,20 @@
 ![Gambar7](img/Screenshot%20(507).png)
 
 #### Three - Way Merging
-1. 
-![Gambar9](img/Screenshot%20(509).png)
+1. Skenario Three Way Merge & solve conflict. Conflict terjadi pada branch Parent dan Child yang disebabkan karena perbedaan perubahan yang terjadi pada file README.md setelah dicommit.
+![Gambar8](img/Screenshot%20(509).png)
+
+2. Melakukan solve conflict pada VSCode.
+![Gambar9](img/Screenshot%20(510).png)
+
+3. Melakukan Compare & Pull Request pada GitHub.
+![Gambar10](img/Screenshot%20(511).png)
+
+4. Membuat pull request dengan reviewer `fuad-zein` dan assignees `MasterThe8` (saya).
+![Gambar11](img/Screenshot%20(513).png)
+
+5. Mengkonfirmasi Merge untuk pull request yang dibuat sebelumnya.
+![Gambar12](img/Screenshot%20(514).png)
+
+6. Status pull request berhasil di merged.
+![Gambar13](img/Screenshot%20(515).png)
