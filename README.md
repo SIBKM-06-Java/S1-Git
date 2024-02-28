@@ -79,3 +79,5 @@ setelah menambahkan git add project akan manjadi unmodified yang berasal dari un
 6. Melakukan Pull Request antara Branch ParentAzfa dan MainAzfa
 <p align="center">
   <img src="img_18.png" /></p>
+7. Melakukan Solve Conflict
+
