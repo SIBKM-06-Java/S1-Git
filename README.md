@@ -81,5 +81,5 @@ setelah menambahkan git add project akan manjadi unmodified yang berasal dari un
 <p align="center">
   <img src="img_18.png" /></p>
 7. Melakukan Solve Conflict
-
+<img src="img_19.png" /></p>
 
