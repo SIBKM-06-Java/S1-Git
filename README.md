@@ -25,3 +25,5 @@
 ![Gambar7](img/Screenshot%20(507).png)
 
 #### Three - Way Merging
+1. 
+![Gambar9](img/Screenshot%20(509).png)
