@@ -70,20 +70,24 @@
     ```
     <img src="./assets/Screenshot (713).png"/>
 
- **Three way merging**
 <div style="text-align:center;">
 
-# Fast Forward <br/>
-
-## **Rovines Derlan Hutabarat**
+# Three Way Merging <br/>
 
 </div>
-
-1. **Buat Folder Baru**
+1. **Ubah Isi File Readme**
    <img src="./assets/Screenshot (687).png"/>
-
-2. **Inisialisasi git**
-   ```bash
-   git init
-   ```
-  
+2. **Push File Ke Local Staging Area**
+    <img src="./assets/Screenshot (708).png"/>
+3. **Perbaiki isi File Readme Pada Code Editor**
+    <img src="./assets/Screenshot (714).png"/>
+4. **Ulangi Push File Ke Local Staging Area**
+    <img src="./assets/Screenshot (708).png"/>
+5. **Lakukan Pull Request**
+    <img src="./assets/Screenshot (717).png"/>
+6. **Push Ke Repo Github**
+    <img src="./assets/Screenshot (713).png"/>
+7. **Lakukan Compare Dan Pull request**
+    <img src="./assets/Screenshot (716).png"/>
+7. **Ubah Reviewers , Assignees , dan konfirmasi untuk melakukan merge**
+    <img src="./assets/Screenshot (716).png"/>
