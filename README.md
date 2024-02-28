@@ -7,7 +7,7 @@
 2. Buat folder dan file README.md dan lakukan inisialisasi git pada folder dengan command
 
 ```
-$ git init
+git init
 ```
 
 ![Gambar yang menjelaskan inisialisasi folder terhadap folder yang dibuat dengan 'git init' di CLI](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/initialisasi.png)
@@ -15,13 +15,13 @@ $ git init
 3. hubungkan folder dari lokal perangkat dengan repository github
 
 ```
-$ git remote add origin <git_ssh_key_di_'<>code'_repository>
+git remote add origin <git_ssh_key_di_'<>code'_repository>
 ```
 
 4. cek local direktori dan github terhubung melalui git
 
 ```
-$ git remote -v
+git remote -v
 ```
 
 nb:akan ditampilkan pesan saat terhubung terdiri dari fetch dan push
@@ -31,17 +31,17 @@ nb:akan ditampilkan pesan saat terhubung terdiri dari fetch dan push
 update repo
 
 ```
-$ git push
+git push
 ```
 
 ```
-$ git push --set-upstream origin
+git push --set-upstream origin
 ```
 
 dapatkan outdated repo
 
 ```
-$ git pull
+git pull
 ```
 
 ### **Fast Forward**
@@ -49,7 +49,7 @@ $ git pull
 1. Buat branch Parent dengan nama "parentHaris" dengan `git checkout -b parentHaris`
 
 ```
-$ git checkout -b <nama_branch>
+git checkout -b <nama_branch>
 ```
 
 ![Gambar yang menjelaskan tentang menjalankan perintah ke CLI untuk membuat branch "parentHaris" dengan 'git checkout -b parentHaris'](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/buatbranchParent.png)
@@ -58,13 +58,13 @@ $ git checkout -b <nama_branch>
    tambahkan file ke stages
 
 ```
-$ git add <nama_file>
+git add <nama_file>
 ```
 
 tambahkan pesan dan commit
 
 ```
-$ git commit -m "<pesan>"
+git commit -m "<pesan>"
 ```
 
 ![Commit pertama di file Parent dengan memasukan file baru 'README.md' ke stages dari working direktori 'git add README.md'dan memberikan pesan commit "add: file README.md"](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/commitpertama.png)
@@ -72,7 +72,7 @@ $ git commit -m "<pesan>"
 3. Membuat branch Child dengan nama "childHaris" dengan command
 
 ```
-$ git checkout -b <nama_branch_baru>
+git checkout -b <nama_branch_baru>
 ```
 
 ![Gambar yang menjelaskan tentang menjalankan perintah ke CLI untuk membuat branch "childHaris" dengan 'git checkout -b childHaris'](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/buatbranchChild.png)
@@ -80,13 +80,13 @@ $ git checkout -b <nama_branch_baru>
 4. Melakukan Fast-Forward dengan git yaitu melakukan merge tanpa conflict antara parent dan child, kita perlu kembali ke branch parent dengan command
 
 ```
-$ git checkout <nama_branch_yang_dituju>
+git checkout <nama_branch_yang_dituju>
 ```
 
 melihat branch yang tersedia dengan command
 
 ```
-$ git branch
+git branch
 ```
 
 ![Gambar yang menjelaskan tentang menjalankan perintah ke CLI untuk kembali ke branch parent dengan `git checkout parentHaris`](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/pindahbranchParent.png)
@@ -94,7 +94,7 @@ $ git branch
 5. Melakukan merge Fast-Forward dilakukan pada branch Parent dengan command
 
 ```
-$ git merge <nama_branch_yang_akan_di_merge_dengan_branch_saat_ini>
+git merge <nama_branch_yang_akan_di_merge_dengan_branch_saat_ini>
 ```
 
 ![Melakukan merge Fast-Forward dilakukan pada branch Parent dengan `git merge childHaris`](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/mergeFastForward.png)
@@ -102,7 +102,7 @@ $ git merge <nama_branch_yang_akan_di_merge_dengan_branch_saat_ini>
 6. Memperlihatkan alur melakukan commit dan merge di github bisa dengan command
 
 ```
-$ git log --all --decorate --oneline --graph
+git log --all --decorate --oneline --graph
 ```
 
 ### **Three-Way Merging**
@@ -110,13 +110,13 @@ $ git log --all --decorate --oneline --graph
 1. Melakukan commit pada file saat ini
 
 ```
-$ git add <nama_file>
+git add <nama_file>
 ```
 
 tambahkan pesan dan commit
 
 ```
-$ git commit -m "<pesan>"
+git commit -m "<pesan>"
 ```
 
 ![Melakukan commit pada file saat ini](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/threeway1.png)
@@ -125,13 +125,13 @@ tambahkan file ke stages
 2. buat typo disini update lalu pindah branch child
 
 ```
-$ git checkout "<nama_branch_child>"
+git checkout "<nama_branch_child>"
 ```
 
 melihat branch yang tersedia dengan command
 
 ```
-$ git branch
+git branch
 ```
 
 ![Melakukan commit pada file saat ini](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/threeway2.png)
@@ -139,13 +139,13 @@ $ git branch
 3. ubah child lalu kembali ke parent
 
 ```
-$ git checkout "<nama_branch_parent>"
+git checkout "<nama_branch_parent>"
 ```
 
 melihat branch yang tersedia dengan command
 
 ```
-$ git branch
+git branch
 ```
 
 4. Kunjungi [halaman pull request](https://github.com/SIBKM-06-Java/S1-Git/pulls) untuk melakukan compare & merge
