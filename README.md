@@ -1,4 +1,5 @@
 # Fast Forward
+## By. Suprianto Dharma Sitompul
 
 1.Membuat directory baru di lokal dan kemudian di init
 ![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentSupri/img/1.png?raw=true)
