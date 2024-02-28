@@ -64,3 +64,4 @@ $ git log --all --decorate --oneline --graph
 ## Three-Way Merging
 
 1. Melakukan commit pada file saat ini
+   ![Melakukan commit pada file saat ini](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/threeway1.png)
