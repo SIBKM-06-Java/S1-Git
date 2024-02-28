@@ -1,6 +1,6 @@
-# Tugas Git - Versioning
+# **Tugas Git - Versioning**
 
-## inisialisasi Repository Github
+## **inisialisasi Repository Github**
 
 1. Pastikan perangkat kalian terhubung dengan SSH key akun github dengan [atur ssh keys](https://github.com/settings/keys) dan langkah-langkahnya dapat dilihat pada [dokumentasi ssh key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
@@ -44,7 +44,7 @@ dapatkan outdated repo
 $ git pull
 ```
 
-### Fast Forward
+### **Fast Forward**
 
 1. Buat branch Parent dengan nama "parentHaris" dengan `git checkout -b parentHaris`
 
@@ -105,7 +105,7 @@ $ git merge <nama_branch_yang_akan_di_merge_dengan_branch_saat_ini>
 $ git log --all --decorate --oneline --graph
 ```
 
-### Three-Way Merging
+### **Three-Way Merging**
 
 1. Melakukan commit pada file saat ini
 
@@ -148,4 +148,4 @@ $ git branch
 
 4. Kunjungi [halaman pull request](https://github.com/SIBKM-06-Java/S1-Git/pulls) untuk melakukan compare & merge
 
-5.
+5.Compare dab merge request jika feature atau pembaruan dari child layak
