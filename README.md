@@ -55,3 +55,4 @@ setelah menambahkan git add project akan manjadi unmodified yang berasal dari un
 <p align="center">
   <img src="img_11.png" />
 </p>
+11. Push ChildAzfa dan Merge dengan ParentAzfa pada git hub
