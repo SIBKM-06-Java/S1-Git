@@ -1,56 +1,52 @@
+# Pengimplementasian tentang git
 
+* `git init`
+  untuk menginisialisasi repo git di komputer kita 
 
-    # Pengimplementasian tentang git
+  ![ScreenShoot Git Init](Screen/Shoot/Git/git_init.jpg)
 
+* Membuat TouchME.Md
+  perinta untuk membuat READMe.MD
 
-        * git init 			
-          untuk menginisialisasi repo git di komputer kita 
+  ![ScreenShoot README.Md](Screen/Shoot/Git/git01.jpg)
 
-          ![ScreenShoot Git Init](Screen/Shoot/Git/git init.jpg)
+* `git Remote`
+  mengecek jenis repo yang di-remote,
+  mengecek kepemilikian repo yang di-remote
 
-        * Membuat TouchME.Md
-          perinta untuk membuat READMe.MD
+  ![ScreenShoot Remote](Screen/Shoot/Git/git02.jpg)
 
-          ![ScreenShoot README.Md](Screen/Shoot/Git/git01.jpg)
+* `git Add`
+  untuk menambahkan file ke dalam staging area 
 
-        * git Remote
-          mengecek jenis repo yang di-remote,
-          mengecek kepemilikian repo yang di-remote
+  ![ScreenShoot git Add](Screen/Shoot/Git/gitAdd.jpg)
 
-          ![ScreenShoot Git Remote](Screen/Shoot/Git/git02.jpg)
+* `git Branch`
+  untuk membuat branch 
 
-        * git Add
-          untuk menambahkan file ke dalam staging area 
+  ![ScreenShoot git branch](Screen/Shoot/Git/gitBranch.jpg)  
 
-          ![ScreenShoot git Add](Screen/Shoot/Git/gitAdd.jpg)
+* `git Check Out`
+  untuk berpindah ke sebuah commit
 
-        * git Branch
-          untuk membuat branch 
+  ![ScreenShoot git Check Out](Screen/Shoot/Git/gitCheckOut.jpg)
 
-          ![ScreenShoot git branch](Screen/Shoot/Git/gitBranch.jpg)  
+* `git Log`
+  untuk menampilkan dari history/commit yang sudah di lakukan
 
-        * git Check Out
-          untuk berpindah ke sebuah commit
+  ![ScreenShoot git Log](Screen/Shoot/Git/gitLog.jpg)
 
-          ![ScreenShoot git Check Out](Screen/Shoot/Git/gitCheckOut.jpg)
+* `git push`
+  untuk mengirimkan commit ke Repo
 
-        * git Log
-          untuk menampilkan  dari history/commit yang sudah di lakukan
+  ![ScreenShoot git push](Screen/Shoot/Git/gitPush.jpg)
 
-          ![ScreenShoot git Log](Screen/Shoot/Git/gitCheckOut.jpg)
+* `git Status`
+  untuk mengetahui status repo kita
 
-        * git push
-          untuk mengirimkan commit ke Repo
+  ![ScreenShoot git Status](Screen/Shoot/Git/gitStatus.jpg)
 
-          ![ScreenShoot git push](Screen/Shoot/Git/gitPush.jpg)
+* `git commit`
+  untuk melakukan commit 
 
-        * git Status
-          untuk mengetahui status repo kita
-
-          ![ScreenShoot git Status] (Screen/Shoot/Git/gitStatus.jpg)
-
-        * git commit
-          untuk melakukan commit 
-
-            ![ScreenShoot git commit](Screen/Shoot/Git/gitcommit.jpg)
-
+  ![ScreenShoot git commit](Screen/Shoot/Git/gitcommit.jpg)
