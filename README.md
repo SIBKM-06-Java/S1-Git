@@ -1,5 +1,49 @@
 # Tugas Git - Versioning
 
+## inisialisasi Repository Github
+
+1. Pastikan perangkat kalian terhubung dengan SSH key akun github dengan [atur ssh keys](https://github.com/settings/keys) dan langkah-langkahnya dapat dilihat pada [dokumentasi ssh key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+2. Buat folder dan file README.md dan lakukan inisialisasi git pada folder dengan command
+
+```
+$ git init
+```
+
+![Gambar yang menjelaskan inisialisasi folder terhadap folder yang dibuat dengan 'git init' di CLI](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/initialisasi.png)
+
+3. hubungkan folder dari lokal perangkat dengan repository github
+
+```
+$ git remote add origin <git_ssh_key_di_'<>code'_repository>
+```
+
+4. cek local direktori dan github terhubung melalui git
+
+```
+$ git remote -v
+```
+
+nb:akan ditampilkan pesan saat terhubung terdiri dari fetch dan push
+
+5. melakukan push dan pull agar remote repo update
+
+update repo
+
+```
+$ git push
+```
+
+```
+$ git push --set-upstream origin
+```
+
+dapatkan outdated repo
+
+```
+$ git pull
+```
+
 ### Fast Forward
 
 1. Buat branch Parent dengan nama "parentHaris" dengan `git checkout -b parentHaris`
@@ -61,11 +105,9 @@ $ git merge <nama_branch_yang_akan_di_merge_dengan_branch_saat_ini>
 $ git log --all --decorate --oneline --graph
 ```
 
-## Three-Way Merging
+### Three-Way Merging
 
 1. Melakukan commit pada file saat ini
-   ![Melakukan commit pada file saat ini](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/threeway1.png)
-   tambahkan file ke stages
 
 ```
 $ git add <nama_file>
@@ -77,5 +119,33 @@ tambahkan pesan dan commit
 $ git commit -m "<pesan>"
 ```
 
-2. buat typo disini update lalu pindah branch
-   ![Melakukan commit pada file saat ini](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/threeway1.png)
+![Melakukan commit pada file saat ini](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/threeway1.png)
+tambahkan file ke stages
+
+2. buat typo disini update lalu pindah branch child
+
+```
+$ git checkout "<nama_branch_child>"
+```
+
+melihat branch yang tersedia dengan command
+
+```
+$ git branch
+```
+
+![Melakukan commit pada file saat ini](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/threeway2.png) 3. ubah child lalu kembali ke parent
+
+```
+$ git checkout "<nama_branch_parent>"
+```
+
+melihat branch yang tersedia dengan command
+
+```
+$ git branch
+```
+
+4. Kunjungi [halaman pull request](https://github.com/SIBKM-06-Java/S1-Git/pulls) untuk melakukan compare & merge
+
+5.
