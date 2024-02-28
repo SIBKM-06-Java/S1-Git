@@ -1,3 +1,3 @@
 # Skenario Fast Forward
 
-### Insialisasi reposito git di komputer
+### Tahapan Skenario fast Forward 
