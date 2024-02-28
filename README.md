@@ -48,5 +48,18 @@ Kembali ke branch master, memastikan tidak adanya file baru yang terbawa ke mast
 
 
 #### Langkah 8
-Setelah berada di master,lakukan merge dengan command git merge childBintang
+Setelah berada di master, lakukan merge dengan command git merge childBintang
 ![](img/Langkah8.png)
+
+## Three Way Merge
+#
+#### Langkah 1
+Push child branch ke repository.
+
+
+#### Langkah 2
+Setelah di-push ke github repository, kita membuka salah satu file yang sama di branch parent dan child untuk melakukan perubahan agar terjadi konflik.
+
+
+#### Langkah 3
+Menuju ke branch child untuk melakukan git pull terhadap branch parent menggunakan git pull ParentBintang.
