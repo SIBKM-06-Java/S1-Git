@@ -15,3 +15,5 @@
 6. Melakukan merge Fast-Forward dilakukan pada branch Parent dengan `git merge childHaris`
    ![Melakukan merge Fast-Forward dilakukan pada branch Parent dengan `git merge childHaris`](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/mergeFastForward.png)
 7. Memperlihatkan alur melakukan commit dan merge di github bisa dengan `git log --all --decorate --oneline --graph`
+
+## Three-Way Merging
