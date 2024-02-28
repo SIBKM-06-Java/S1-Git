@@ -66,10 +66,4 @@ Setelah di-push ke github repository, kita membuka salah satu file yang sama di 
 
 
 #### Langkah 3
-Menuju ke branch child untuk melakukan git pull terhadap branch parent menggunakan git pull ParentBintang.
-
-
-#### Langkah 4
-
-
-#### Langkah 5
+Menuju ke branch child untuk melakukan git pull terhadap branch parent menggunakan git pull ParentChildBintang.
