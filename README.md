@@ -1,11 +1,11 @@
 # List Main Character
 ## Luke Fon Fabre
-TotA
+Tales of the Abyss
 ## Ruca Milda
-ToI
+Tales of Innocence
 ## Yuri Lowell
-ToV
+Tales of Vesperia
 ## Velvet Crowe
-ToB
+Tales of Berseria
 ## Alphen
-ToA
+Tales of Arisegit a
