@@ -76,3 +76,6 @@ setelah menambahkan git add project akan manjadi unmodified yang berasal dari un
 5. Push ke repository dengan git -push
 <p align="center">
   <img src="img_17.png" /></p>
+6. Melakukan Pull Request antara Branch ParentAzfa dan MainAzfa
+<p align="center">
+  <img src="img_18.png" /></p>
