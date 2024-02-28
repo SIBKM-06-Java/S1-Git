@@ -1,4 +1,5 @@
 # Fast Forward and Three Way Merged
+## By. Suprianto Dharma Sitompul
 
 1.Membuat directory baru di lokal dan kemudian di init
 ![image](https://github.com/supriantositompul/test/assets/71377466/ed5c87e4-8255-46ba-9ee9-1e543db70eb0)
