@@ -1,9 +1,11 @@
 ## Laporan Implementasi Git
 
-## Skenario Fast-Forward
-Pada skenario Fast-Forward, saya melakukan implementasi dengan membuat dua buah branch di dalam repositori. Pertama, saya membuat branch ParentSurya sebagai branch induk. Kemudian, kami membuat branch ChildSurya sebagai branch turunan dari ParentFuad.
+Nama : Ahmad Danang Surya Wicaksana
 
-Saya melakukan perubahan pada branch ChildSurya dan melakukan commit untuk menyimpan perubahan tersebut. Setelah itu,  melakukan Fast-Forward merge dari branch ChildFuad ke branch ParentFuad. Proses merge ini dilakukan secara langsung dari terminal dengan menambahkan remote dari repository organization S1-Git.
+## Skenario Fast-Forward
+Pada skenario Fast-Forward, saya melakukan implementasi dengan membuat dua buah branch di dalam repositori. Pertama, saya membuat branch ParentSurya sebagai branch induk. Kemudian, kami membuat branch ChildSurya sebagai branch turunan dari ParentSurya.
+
+Saya melakukan perubahan pada branch ChildSurya dan melakukan commit untuk menyimpan perubahan tersebut. Setelah itu,  melakukan Fast-Forward merge dari branch ChildSurya ke branch ParentSurya. Proses merge ini dilakukan secara langsung dari terminal dengan menambahkan remote dari repository organization S1-Git.
 
 ## Skenario Three Way Merge & Solve Conflict
 Dalam skenario Three Way Merge, kami melakukan implementasi dengan melakukan clone terhadap repositori yang sudah ada dari GitHub. Setelah melakukan clone, kami membuat branch baru untuk melakukan perubahan.
