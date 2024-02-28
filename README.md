@@ -37,4 +37,4 @@ $ git init
 
 ## Three-Way Merging
 
-1.
+1. ini belum di push di repository baru
