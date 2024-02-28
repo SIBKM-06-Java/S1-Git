@@ -1,3 +1,4 @@
 title : Belajar git
 dekripsi: 
 - inisialisasi proyek => git init
+- cek status commit => git status
