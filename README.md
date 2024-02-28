@@ -72,4 +72,22 @@ Bisa kita lihat pada gambar tersebut, bahwa pointer HEAD sekarang sudah berada d
 <br>
 
 # Three-way Merging
-Three-way merging adalah metode yang digunakan dalam sistem kontrol versi seperti Git untuk menggabungkan perubahan dari dua cabang (branches) yang berbeda. Keuntungan dari three-way merge adalah kemampuannya untuk secara otomatis menyelesaikan konflik yang mungkin terjadi ketika dua cabang mencoba menggabungkan perubahan mereka
+Three-way merging adalah metode yang digunakan dalam sistem kontrol versi seperti Git untuk menggabungkan perubahan dari dua cabang (branches) yang berbeda. Keuntungan dari three-way merge adalah kemampuannya untuk secara otomatis menyelesaikan konflik yang mungkin terjadi ketika dua cabang mencoba menggabungkan perubahan mereka. Berikut adalah contoh dari kondisi three-way merging :
+
+- **STEP 1** - Kita push branch child supaya masuk kedalam Repository Remote, caranya sama semperti push Repository Local sebelumnya.
+
+- **STEP 2** - Setelah dipush kita akan mencoba edit isi file yang ada pada branch child dan branch parent, sehingga kedua branch mempunyai perubahannya masing-masing dan nantinya akan mengakibatkan konflik.
+
+- **STEP 3** - Selanjutnya kita pergi ke branch Child dan melakukan pull dengan menggunakan Command `git pull <nama_branch>`.
+
+![Image Git Bash](?raw=true)
+
+- **STEP 4** - Pada pesan pull diatas terjadi konflik pada kedua branch karena kedua branch mempunyai perubahannya masing-masing. Masalah tersebut bisa kita selesaikan menggunakan IDE seperti VS Code, pada VS code masuk ke Source Control untuk melihat konflik yang terjadi, setelah itu pada kasus ini saya pilih `Accept Both Changes` untuk menggabungkan perubahan pada kedua branch, setelah itu lanjut klik `Resolve in Merge Editor`, dan akan masuk ke halaman berikut.
+
+![Image Git Bash](?raw=true)
+
+Setelah berada pada halaman seperti gambar diatas, selanjutnya klik `Complete Merge` untuk menyelesaikan Konflik, pada gambar itu juga kita bisa melihat perubahan apa saja yang ada pada kedua branch dan kita juga bisa melihat perubahan apa saya yang digabungkan.
+
+- **STEP 5** - Setelah selesai langkah terakhir selahkan kalian push ulang perubahan hasil penggabungan kedua branch. setelah selesai kalian bisa langsung melakukan Pull Request tanpa adanya konflik. 
+
+
