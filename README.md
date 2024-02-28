@@ -58,4 +58,3 @@ setelah menambahkan git add project akan manjadi unmodified yang berasal dari un
 11. Push ke repositorynya menggunakan git push
 <p align="center">
   <img src="img_11.png" />
-</p>
