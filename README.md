@@ -134,7 +134,9 @@ melihat branch yang tersedia dengan command
 $ git branch
 ```
 
-![Melakukan commit pada file saat ini](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/threeway2.png) 3. ubah child lalu kembali ke parent
+![Melakukan commit pada file saat ini](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/threeway2.png)
+
+3. ubah child lalu kembali ke parent
 
 ```
 $ git checkout "<nama_branch_parent>"
