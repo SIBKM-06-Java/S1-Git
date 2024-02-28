@@ -1,5 +1,5 @@
 # Fast Forward and Three Way Merged
-## Suprianto Dharma Sitompul
+## By. Suprianto Dharma Sitompul
 
 1.Membuat directory baru di lokal dan kemudian di init
 ![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentSupri/img/1.png?raw=true)
@@ -38,5 +38,8 @@
 12.Untuk mengatasi hal tersebut maka perlu dilakukan merge fast forward
 ![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentSupri/img/12.png?raw=true)
 
-13.Hasil akhir, data pada branch parent sudah mengikuti branch child
+13.Hasil akhir, data pada branch parent sudah mengikuti branch child. Branch Parent akan menerima perubahan dari Child
 ![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentSupri/img/13.png?raw=true)
+
+
+Sekian dan terima kasih.
