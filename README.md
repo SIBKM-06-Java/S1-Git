@@ -23,3 +23,5 @@
 
 7. Berpindah ke branch child dengan perintah `git checkout ChildGhifary`. Kemudian melakukan push branch child ke repository GitHub dengan perintah `git push origin ChildGhifary`.
 ![Gambar7](img/Screenshot%20(507).png)
+
+#### Three - Way Merging
