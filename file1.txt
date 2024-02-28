@@ -2,3 +2,4 @@ title : Belajar git
 dekripsi: 
 - inisialisasi proyek => git init
 - cek status commit => git status
+- menyimpan perubahan ke staging area => git add namaFile
