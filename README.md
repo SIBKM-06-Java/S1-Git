@@ -1,6 +1,6 @@
 # Fast Forward
 
-## _Created By Abiyyu Zaky Arinta Putra_
+## _Created By Nothing_
 
 1.Buat Project Baru,Kemudian Git Init.
 
