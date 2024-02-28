@@ -69,3 +69,5 @@
     git push origin ParentRovines
     ```
     <img src="./assets/Screenshot (713).png"/>
+
+ **Three way merging**
