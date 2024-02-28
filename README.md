@@ -59,6 +59,7 @@ setelah menambahkan git add project akan manjadi unmodified yang berasal dari un
 <p align="center">
   <img src="img_11.png" />
 
+
 # Three Way Merge
 <p></p>
 1. Pull Branch ParentAzfa ke lokal repository Menggunakan git clone -b ParentAzfa git@github.com:SIBKM-06-Java/S1-Git.git
@@ -80,4 +81,5 @@ setelah menambahkan git add project akan manjadi unmodified yang berasal dari un
 <p align="center">
   <img src="img_18.png" /></p>
 7. Melakukan Solve Conflict
+
 
