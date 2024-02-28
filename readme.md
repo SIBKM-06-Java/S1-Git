@@ -7,4 +7,5 @@
 
 ## THREE WAY MERGING
 # Berikut cara melakukan Three way merging
-# Buka github pada browser
+# Buka github pada browsery
+# Buat repository yang akan dituju
