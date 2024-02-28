@@ -1,1 +1,3 @@
 title : Belajar git
+dekripsi: 
+- inisialisasi proyek => git init
