@@ -1,7 +1,7 @@
 
 
     # Pengimplementasian tentang git
-===================<<<<<>>>>>============================
+
 
         * git init 			
           untuk menginisialisasi repo git di komputer kita 
