@@ -63,7 +63,3 @@ Push child branch ke repository.
 
 #### Langkah 2
 Setelah di-push ke github repository, kita membuka salah satu file yang sama di branch parent dan child untuk melakukan perubahan agar terjadi konflik.
-
-
-#### Langkah 3
-Menuju ke branch child untuk melakukan git pull terhadap branch parent menggunakan git pull ParentChildBintang.
