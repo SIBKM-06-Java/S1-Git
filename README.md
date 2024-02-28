@@ -1,5 +1,5 @@
 # Melakukan Fast Forward
-!/path/to/Screenshot (1312).png
+<img src="/path/to/Screenshot (1312).png">
 ## Membuat Project
 Hal pertama yang perlu dilakukan adalah menentukan lokasi project yang akan dibuat dengan [cd "lokasi penyimpanan"]. Setelahnya, melakukan inisialisasi dengan [git init]. Ini akan membuat folder hidden .git.
 ## Permbuatan Branch Parent dan Child
