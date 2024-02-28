@@ -47,15 +47,15 @@ setelah menambahkan git add project akan manjadi unmodified yang berasal dari un
 <p align="center">
   <img src="img_9.png" />
 </p>
-9. Membuat remote origin untuk koneksi ke repository web
+9. Merge ChildAzfa dengan ParentAzfa menggunakan git merge
+<p align="center">
+  <img src="img_12.png" />
+</p>
+10. Membuat remote origin untuk koneksi ke repository web
 <p align="center">
   <img src="img_10.png" />
 </p>
-10. Push ke repositorynya menggunakan git push
+11. Push ke repositorynya menggunakan git push
 <p align="center">
   <img src="img_11.png" />
-</p>
-11. Push ChildAzfa dan Merge dengan ParentAzfa pada git hub
-<p align="center">
-  <img src="img_12.png" />
 </p>
