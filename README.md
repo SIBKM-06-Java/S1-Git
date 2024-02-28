@@ -9,6 +9,8 @@
 
 <p align="center"> Studi Independen Bersertifikat Kampus Merdeka Batch 6 </p>
 <p align="center"> 2024</p>
+
+# Fast Forward
 1. Membuat Folder Project
 <p align="center">
   <img src="img.png" />
@@ -37,4 +39,20 @@ setelah menambahkan git add project akan manjadi unmodified yang berasal dari un
 <p align="center">
   <img src="img_7.png" />
 </p>
-
+7. Switch Ke branch ParentAzfa dengan menambahkan git checkout -b ParentAzfa
+<p align="center">
+  <img src="img_8.png" />
+</p>
+8. Membuat branch child dengan menambahkan git checkout -b ChildAzfa
+<p align="center">
+  <img src="img_9.png" />
+</p>
+9. Membuat remote origin untuk koneksi ke repository web
+<p align="center">
+  <img src="img_10.png" />
+</p>
+10. Push ke repositorynya menggunakan git push
+<p align="center">
+  <img src="img_11.png" />
+</p>
+11. Push ChildAzfa dan Merge dengan ParentAzfa pada git hub
