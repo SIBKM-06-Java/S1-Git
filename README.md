@@ -39,15 +39,38 @@ Fast-forward adalah proses dimana Git memperbarui pointer seperti HEAD ke commit
 
 - **STEP 1** - membuat branch baru untuk dijadikan branch child, menggunakan command `git checkout -b <nama_branch>`.
 
-![Image Git Bash](?raw=true)
+![Image Git Bash](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentNanang/img/Screenshot%20(239).png?raw=true)
 
 Untuk melihat semua branch yang ada pada repository, bisa menggunakan command `git branch`.
 
-![Image Git Bash](?raw=true)
+![Image Git Bash](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentNanang/img/Screenshot%20(240).png?raw=true)
 
 Maka akan tampil semua branch, branch yang aktif biasanya ditandai dengan tulisan berwarna hijau. Jika ingin berpindah branch, bisa menggunakan command `git checkout <nama_branch>`
 
-- **STEP 2** - Silahkan commit file/folder seperti pada langkah-langkah sebelumnya. 
+- **STEP 2** - Silahkan commit perubahan pada file/folder seperti pada langkah-langkah sebelumnya.
 
 
 Three-way merging adalah metode yang digunakan dalam sistem kontrol versi seperti Git untuk menggabungkan perubahan dari dua cabang (branches) yang berbeda. Keuntungan dari three-way merge adalah kemampuannya untuk secara otomatis menyelesaikan konflik yang mungkin terjadi ketika dua cabang mencoba menggabungkan perubahan mereka
+- **STEP 3** - Setelah selesai melakukan commit, selanjutnya kita akan melihat riwayat commit untuk mengetahui struktur commitnya, menggunakan command `git log --all --decorate --oneline --graph`.
+
+![Image Git Bash](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentNanang/img/Screenshot%20(241).png?raw=true)
+
+Bisa kita lihat dari commit pada gambar tersebut, bahwa pointer HEAD sekarang sudah ada di branch child dan posisi dari commit branch child dan parent tidak sejajar, yang menandakan ada commit yang berbeda.
+
+- **STEP 4** - Untuk melakukan fast-forward kita harus pindah dari branch child ke branch parent nya untuk melakukan merge, menggunakan command `git checkout <nama_branch>`
+
+![Image Git Bash](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentNanang/img/Screenshot%20(242a).png?raw=true)
+
+- **STEP 5** - Setelah berhasil pindah branch ke parent, sekarang kita bisa melakukan merge menggunakan command `git merge <nama_branch>`
+
+![Image Git Bash](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentNanang/img/Screenshot%20(242).png?raw=true)
+
+Untuk memastikan apakah penggabungan commit nya berhasil, kita akan melihat riwayat commitnya menggunakan command `git log --all --decorate --oneline --graph`.
+
+![Image Git Bash](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentNanang/img/Screenshot%20(243).png?raw=true)
+
+Bisa kita lihat pada gambar tersebut, bahwa pointer HEAD sekarang sudah berada dikedua branch dan kedua branch pun berada pada posisi commit yang sama. 
+
+<br>
+
+# Three-way Merging
