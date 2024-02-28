@@ -49,8 +49,6 @@ Maka akan tampil semua branch, branch yang aktif biasanya ditandai dengan tulisa
 
 - **STEP 2** - Silahkan commit perubahan pada file/folder seperti pada langkah-langkah sebelumnya.
 
-
-Three-way merging adalah metode yang digunakan dalam sistem kontrol versi seperti Git untuk menggabungkan perubahan dari dua cabang (branches) yang berbeda. Keuntungan dari three-way merge adalah kemampuannya untuk secara otomatis menyelesaikan konflik yang mungkin terjadi ketika dua cabang mencoba menggabungkan perubahan mereka
 - **STEP 3** - Setelah selesai melakukan commit, selanjutnya kita akan melihat riwayat commit untuk mengetahui struktur commitnya, menggunakan command `git log --all --decorate --oneline --graph`.
 
 ![Image Git Bash](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentNanang/img/Screenshot%20(241).png?raw=true)
@@ -74,3 +72,4 @@ Bisa kita lihat pada gambar tersebut, bahwa pointer HEAD sekarang sudah berada d
 <br>
 
 # Three-way Merging
+Three-way merging adalah metode yang digunakan dalam sistem kontrol versi seperti Git untuk menggabungkan perubahan dari dua cabang (branches) yang berbeda. Keuntungan dari three-way merge adalah kemampuannya untuk secara otomatis menyelesaikan konflik yang mungkin terjadi ketika dua cabang mencoba menggabungkan perubahan mereka
