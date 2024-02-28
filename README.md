@@ -74,4 +74,35 @@
 
 ![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyu/Image/17.png?raw=true)
 
+# Three Way Merged
+
+## _Created By Abiyyu Zaky Arinta Putra_
+
+1.Kita akan merubah file di Child
+
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyu/Image/21.png?raw=true)
+
+2.Merubah Sciprt README.md pada Child
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyu/Image/22.png?raw=true)
+
+3.Melakukan Commit untuk perubahan Child
+
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyu/Image/23_copy.png?raw=true)
+
+4.Setelah itu masuk kembali ke branch parrent dan lakukan merge dengan Child maka akan menjadi seperti berikut,Solvingnya yaitu saya menerima perubahan pada Childnya.
+
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyu/Image/24.png?raw=true)
+
+5.Kemudian membuat pull request baru di github.
+
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyu/Image/26.png?raw=true)
+
+6.Selanjutnya lakukan merge pull request
+
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyu/Image/27.png?raw=true)
+
+7.Bila Sukses akan menjadi seperti ini maka akan secara otomatis Branch Parrent Akan menerima perubahan dari Child
+
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyu/Image/28.png?raw=true)
+
 ## Sekian Dari Saya Terima Kasih
