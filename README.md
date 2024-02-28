@@ -58,3 +58,28 @@ setelah menambahkan git add project akan manjadi unmodified yang berasal dari un
 11. Push ke repositorynya menggunakan git push
 <p align="center">
   <img src="img_11.png" />
+
+
+# Three Way Merge
+<p></p>
+1. Pull Branch ParentAzfa ke lokal repository Menggunakan git clone -b ParentAzfa git@github.com:SIBKM-06-Java/S1-Git.git
+<p align="center">
+  <img src="img_13.png" /></p>
+2. Pindah Directory ke S1-Git/ otomatis Branch menggunakan ParentAzfa
+<p align="center">
+  <img src="img_14.png" /></p>
+3. Membuat Branch Baru dengan nama MainAzfa dengan git checkout -b MainAzfa
+<p align="center">
+  <img src="img_15.png" /></p>
+4. Commit branch MainAzfa dengan git -commit
+<p align="center">
+  <img src="img_16.png" /></p>
+5. Push ke repository dengan git -push
+<p align="center">
+  <img src="img_17.png" /></p>
+6. Melakukan Pull Request antara Branch ParentAzfa dan MainAzfa
+<p align="center">
+  <img src="img_18.png" /></p>
+7. Melakukan Solve Conflict
+<img src="img_19.png" /></p>
+
