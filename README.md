@@ -1,7 +1,7 @@
 # Fast Forward
 
 1.Membuat directory baru di lokal dan kemudian di init
-![image](https://github.com/supriantositompul/test/assets/71377466/ed5c87e4-8255-46ba-9ee9-1e543db70eb0)
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentSupri/img/1.png?raw=true)
 
 2.Selanjutnya menambahkan file readme pada branch master
 ![image](https://github.com/supriantositompul/test/assets/71377466/6face0a1-8c74-4768-b114-f4b890d93206)
