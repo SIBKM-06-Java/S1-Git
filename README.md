@@ -69,3 +69,6 @@ Untuk memastikan apakah penggabungan commit nya berhasil, kita akan melihat riwa
 
 Bisa kita lihat pada gambar tersebut, bahwa pointer HEAD sekarang sudah berada dikedua branch dan kedua branch pun berada pada posisi commit yang sama. 
 
+<br>
+
+# Three-way Merging
