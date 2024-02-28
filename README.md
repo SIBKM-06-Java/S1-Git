@@ -49,3 +49,5 @@ Maka akan tampil semua branch, branch yang aktif biasanya ditandai dengan tulisa
 
 - **STEP 2** - Silahkan commit file/folder seperti pada langkah-langkah sebelumnya. 
 
+
+Three-way merging adalah metode yang digunakan dalam sistem kontrol versi seperti Git untuk menggabungkan perubahan dari dua cabang (branches) yang berbeda. Keuntungan dari three-way merge adalah kemampuannya untuk secara otomatis menyelesaikan konflik yang mungkin terjadi ketika dua cabang mencoba menggabungkan perubahan mereka
