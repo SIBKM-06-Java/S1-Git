@@ -148,9 +148,11 @@ melihat branch yang tersedia dengan command
 git branch
 ```
 
-4. Kunjungi [halaman pull request](https://github.com/SIBKM-06-Java/S1-Git/pulls) untuk melakukan compare & merge
+4. Kunjungi [halaman pull request](https://github.com/SIBKM-06-Java/S1-Git/pulls) untuk melakukan compare & merge atau melalui `source control vs code`
 
 5. Buat request baru tentukan `base:<nama_branch_lokasi_merge>` dan `compare:<nama_branch_merge_yang_ingin_digabungkan>`
    serta tentukan `Reviewers` yan memutuskan kelayakan dalam team dan `Assignees` yang membuat permintaan merge
+   ![Melakukan review terhadap commit](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/threeway3.png)
 
-6. Pull Request akan mempertanyakan kelayakan yang ditentukan `Reviewers`
+6. Pull Request akan mempertanyakan kelayakan yang ditentukan `Reviewers` setelah layak akan di merge
+   ![Melakukan review terhadap commit](https://github.com/SIBKM-06-Java/S1-Git/blob/parentHaris/images/threeway4.png)
