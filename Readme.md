@@ -168,8 +168,9 @@ Membuat perubahan pada file.txt dan melakukan push ke repository:
 
 ![Alt Text](./img/Pasted%20image%2020240229084255.png)
 
-## Langkah 5
+![Alt Text](./img/git_file_ss.png)
 
+## Langkah 5
 
 Karena tadi masih berada di branch parent. Maka perlu pindah branch dari ParentIhsanKurnia ke ChildIhsanKurnia
 
@@ -187,6 +188,7 @@ Melakukan pull request dan merge dengan perintah dibawah ini
 
 Pull Request dari branch ChildIhsanKurnia ke branch ParentIhsanKurnia
 ![Alt Text](./img/Pasted%20image%2020240229085805.png)
+![Alt Text](./img/git_pullrequest.png)
 
 
 ![Alt Text](./img/Pasted%20image%2020240229090209.png)
@@ -194,10 +196,3 @@ Pull Request dari branch ChildIhsanKurnia ke branch ParentIhsanKurnia
 
 Pull request berhasil dan melakukan merge branch:
 ![Alt Text](./img/Pasted%20image%2020240229090432.png)
-
-## Tambahan
- laporan readme.md dan menambahkan perubahan pada file.txt
-
-![Alt Text](./img/git_pullrequest.png)
-![Alt Text](./img/git_file_ss.png.png)
-
