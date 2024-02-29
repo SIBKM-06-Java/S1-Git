@@ -51,7 +51,33 @@ Langkah kedua,Melakukan merge Setelah menambahkan data yang diperlukan,,lalu men
 
 ![alt text](image-4.png)
 
-## tips Three Way Merging
+## Three Way Merge
 
-2. Three Way Merge
-   ParentPutrimaharani (revisi)
+- clone dari github(cloud) ke local repo
+  > git clone git@github.com:SIBKM-06-Java/S1-Git.git
+
+> cd S1-Git
+
+> masuk ke branch ParentPutri n ChildPutri
+> ![alt text](image-5.png)
+
+- selanjutnya, Edit file readme.md di branch parent agar nantinya akan terjadi conflict dengan branch child
+  ![alt text](image-6.png)
+- Lakukan commit dan push pada branch parent
+  ![alt text](image-7.png)
+- lakukan dengan hal sama pada branch ChildPutri, tetapi tidak dipush
+  ![alt text](image-8.png)
+- Lakukan git pull dari branch child ke branch parent
+  ![alt text](image-9.png)
+- setelah itu, Terjadi Solve conflict dengan file README.md
+  ![alt text](image-10.png)
+- Lakukan commit dan pull seperti gambar dibawah ini
+  ![alt text](image-11.png)
+
+## PR (Pull Request)
+
+- Buka pull request dan lakukan open new pull request dengan branch parent sebagai base dan child parent sebagai subjek yang ingin dikomparasi
+  ![alt text](image-13.png)
+  ![alt text](image-12.png)
+
+      ![alt text](image-14.png)
