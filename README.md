@@ -46,7 +46,7 @@
 ---
 **2.** **Three Way Merge**
 ---
-* **Step 1** - Melakukan **`git clone git@github.com:SIBKM-06-Java/S1-Git.git`** untuk meng-*clone* projectnya, setelah itu kita *checkout* ke *branch parent* dan *branch child* kita, pastikan **`git status`** aman.
+* **Step 1** - Melakukan **`git clone git@github.com:SIBKM-06-Java/S1-Git.git`** untuk meng-*clone* *project*, setelah itu kita *checkout* ke *branch parent* dan *branch child* kita, pastikan **`git status`** aman.
   ####
   ![Three1](img/THREE1.png)
 ---
