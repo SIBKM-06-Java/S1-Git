@@ -5,3 +5,7 @@
 ## Create child branch - ChildKhaidar
 
 ## Fast Forward - ChildKhaidar
+
+## Fast Forward - ParentKhaidar
+
+## `Merging Success!!!`
