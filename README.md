@@ -1,24 +1,21 @@
 # Tugas Versioning
 ## Pembukaan
-![Alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20005429.png)
-Membuat tempat untuk menyimpan proyek. Hal ini bisa dilakukan dengan command `cd "lokasi folder(disarankan untuk melakukan copy-paste untuk menghindari kesalahan lokasi)`.
-![Alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20005541.png) Berikutnya melakukan inisialisasi dengan command `git init`. Command ini akan membuat folder .git tetapi hidden. Tetapi, folder dapat dimunculkan. ![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20010513.png)
-![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20005803.png)
-Berikutnya, membuat branch baru dengan `git branch NamaBranchParentBaru` atau `git checkout -b NamaBranchBaru`. Jika sudah punya branch parent tetapi ingin di-*rename*, bisa dengan command `git branch -m NamaLama NamaBaru`.
-![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20011924.png)
-Berikutnya, membuat file yang diinginkna dengan command `touch nama_file.formatfile`. File tersebut akan langsung muncul secara otomatis pada folder yang lokasinya sudah ditentukan sebelumnya. ![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20010513.png).
-![]() Berikutnya, ganti isi file sesuai kebutuhan. Setelahnya, perubahan yang telah dilakukan ditambahkan ke staging area dengan command `git add .`.
-(Insert picture) Berikutnya, jika tidak ada lagi yang ingin diganti bisa langsung dikomit agar hasil perubahan masuk ke repo local dengan cara `git commit -m "Judul Perubahan"`.
+Membuat tempat untuk menyimpan proyek. Hal ini bisa dilakukan dengan command `cd "lokasi folder(disarankan untuk melakukan copy-paste untuk menghindari kesalahan lokasi)`. ![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20005429.png)
+Berikutnya melakukan inisialisasi dengan command `git init`. Command ini akan membuat folder .git tetapi hidden. Tetapi, folder dapat dimunculkan. ![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20005541.png) ![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20010513.png)
+Berikutnya, membuat branch baru dengan `git branch NamaBranchParentBaru` atau `git checkout -b NamaBranchBaru`. Jika sudah punya branch parent tetapi ingin di-*rename*, bisa dengan command `git branch -m NamaLama NamaBaru`.![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20005803.png)
+Berikutnya, membuat file yang diinginkna dengan command `touch nama_file.formatfile`. File tersebut akan langsung muncul secara otomatis pada folder yang lokasinya sudah ditentukan sebelumnya. ![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20005859.png) ![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20011924.png)
+Berikutnya, ganti isi file sesuai kebutuhan. Setelahnya, perubahan yang telah dilakukan ditambahkan ke staging area dengan command `git add .`. ![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20012124.png)
+Berikutnya, jika tidak ada lagi yang ingin diganti bisa langsung dikomit agar hasil perubahan masuk ke repo local dengan cara `git commit -m "Judul Perubahan"`. ![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20012631.png)
 ## Fast-Forward
-(Insert Picture) Pertama-tama, membuat brand child dengan command `git checkout -b NamaBranchBaru`. Command ini akan langsung mengganti menjadi branch baru. Perubahan yang dilakukan akan terjadi pada branch tersebut.
-(Insert Picture) Berikutnya, melakukan berubahan lalu melakukan command `git add .` seperti sebelumnya dan melakukan komit dengan command `git commit` agar perubahannya tersimpan pada repo lokal.
-(Insert Picture) Karena perubahan dilakukan di child branch dan tidak pada parent branch, maka perlu diperbaiki dengan cara membuat branch baru dengan nama hotfix dan command `git checkout -b hotfix`.
-(Insert picture) Lalu melakukan command `vim FileYangDikerjakan.FormatFile`. Setelahnya melakukan komit untuk menyimpan perubahan pada local repo. Kembali ke parent branch lalu merge parent branch dengan hotfix dengan command `git merge hotfix`.
-(Insert picture) Dengan begitu fast-forward akan muncul menandakan bahwa perubahan file telah berubah menjadi file yang sesuai dengan child branch.
-(Insert picture) Berikutnya menghapus branch hotfix.
-(Insert picture) Setelahnya update ke git hub dengan cara menambah remote origin. Cek apakah sudah terhubungan dengan command `git remote-v`. Setelahnya lakukan update dengan command `git push origin NamaBranch
+Pertama-tama, membuat brand child dengan command `git checkout -b NamaBranchBaru`. Command ini akan langsung mengganti menjadi branch baru. Perubahan yang dilakukan akan terjadi pada branch tersebut. ![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20012957.png)
+Berikutnya, melakukan berubahan lalu melakukan command `git add .` seperti sebelumnya dan melakukan komit dengan command `git commit` agar perubahannya tersimpan pada repo lokal.
+Karena perubahan dilakukan di child branch dan tidak pada parent branch, maka perlu diperbaiki dengan cara membuat branch baru dengan nama hotfix dan command `git checkout -b hotfix`. ![]
+Lalu melakukan command `vim FileYangDikerjakan.FormatFile`. Setelahnya melakukan komit untuk menyimpan perubahan pada local repo. Kembali ke parent branch lalu merge parent branch dengan hotfix dengan command `git merge hotfix`.
+Dengan begitu fast-forward akan muncul menandakan bahwa perubahan file telah berubah menjadi file yang sesuai dengan child branch. ![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20020949.png)
+Berikutnya menghapus branch hotfix.
+Setelahnya update ke git hub dengan cara menambah remote origin. Cek apakah sudah terhubungan dengan command `git remote-v`. Setelahnya lakukan update dengan command `git push origin NamaBranch ![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20023030.png)
 ## Three Way Merge
-(Insert picture) Kembali ke branch child lalu melakukan perubahan pada file seperti biasa. Setelahnya melakukan command add dan commit untuk menyimpan perubahan pada local repo.
-(Insert picture) Kembali ke branch parent lalu melakukan perubahan pada posisi yang sama dengan perubahan yang dilakukan pada branch child. setelahnya melakukan add . dan commit.
-(Insert picture) tetapi akan terjadi conflict. Cara menyelesaikannya cukup dengan menyimpan perubahan file yang diinginkan dengan cara menghapus yang tidak diperlukan. Lalu lakukan command add . dan commit.
-(Insert picture) Setelah solve conflict, lakukan merge di github.
+Kembali ke branch child lalu melakukan perubahan pada file seperti biasa. Setelahnya melakukan command add dan commit untuk menyimpan perubahan pada local repo.
+Kembali ke branch parent lalu melakukan perubahan pada posisi yang sama dengan perubahan yang dilakukan pada branch child. setelahnya melakukan add . dan commit. tetapi akan terjadi conflict. Cara menyelesaikannya cukup dengan menyimpan perubahan file yang diinginkan dengan cara menghapus yang tidak diperlukan. Lalu lakukan command add . dan commit.
+Setelah solve conflict, lakukan merge di github.
+![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarah/Screenshot%20(1319).png) ![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarah/Screenshot%20(1320).png) ![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarah/Screenshot%20(1321).png)
