@@ -121,6 +121,21 @@ git push origin ChildIhsanKurnia
 ![Alt Text](./img/Pasted%20image%2020240229081114.png)
 
 
+## Langkah 10 
+
+Pindah ke branch ParentIhsanKurnia
+```bash
+git checkout ParentIhsanKurnia
+```
+
+Menggabungkan seluruh perubahan yang ada di branch ChildIhsanKurnia ke branch ParentIhsanKurnia
+```bash
+git merge ChildIhsanKurnia
+```
+
+![Alt Text](./img/gitmerge_fastforward.png)
+
+
 ## GIT THREE-WAY-MERGING
 
 ## Langkah 1
