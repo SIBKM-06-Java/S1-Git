@@ -81,3 +81,9 @@ Langkah kedua,Melakukan merge Setelah menambahkan data yang diperlukan,,lalu men
   ![alt text](image-12.png)
 
       ![alt text](image-14.png)
+
+  ![alt text](image-16.png)
+
+- Untuk Accept Merge perlu diketahui ini tidak dilakukan sendiri tanpa persetujuan reviewer namun dalam kasus ini hanyalah uji coba saja)
+
+  ![alt text](image-15.png)
