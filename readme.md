@@ -49,3 +49,9 @@ lalu saya push ke parentOskar dengan command `git push origin parnetOskar`
 4. Push perubahan ke branch parentOskar dengan `git push origin parentOskar`
    ![](img/SCR-20240229-hsqj.png)
 5. Selanjutnya coba commit & push perubahan pada branchParentOskar setelah diubah dari source code lain
+6. Maka terjadi conflict yang mengharuskan pull terlebih dahulu
+   ![](img/SCR-20240229-http.png)
+7. Lakukan pull `git pull origin parentOskar --no-rebase` untuk merge sehingga mendapatkan source code perubahan
+   ![](img/SCR-20240229-huog.png)
+8. Exit merge editornya dengan menuliskan `:q` lalu enter sehingga berhasil merge
+   ![](img/SCR-20240229-husu.png)
