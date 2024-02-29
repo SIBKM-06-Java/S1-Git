@@ -37,7 +37,6 @@ TREE WAY MERGE
 <p align="center">
   <img src="img/7.PNG" />
 </p>
-8. 
 <p align="center">
-  <img src="img/.PNG" />
+  <img src="img/9.PNG" />
 </p>
