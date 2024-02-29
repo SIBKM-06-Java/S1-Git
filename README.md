@@ -2,7 +2,7 @@
 ## Tugas Git
 
 * ### Langkah 1: Disini saya membuat folder baru terlebih dahulu.
-![]( img/img1.png )
+![]( img/img_1.png )
 
 
 * ### Langkah 2: Selanjutnya saya membuka GitBash dan mengarahkan ke directory path folder yang sudah dibuat pada tahap sebelumya. Setelah itu menghubungkan git dengan IDE code(visual code saya dan saya sudah membuat README.md).
@@ -24,9 +24,11 @@
 * ### Langkah 6: Disini saya mengubah nama branch `master` menjadi `ParentSetyoRevisi` dan membuat branch child yaitu `ChildSetyoRevisi`. Setelah itu update `README.md` untuk branch `ChildSetyoRevisi`
 ![]( img/img6.png )
 ![]( img/img7.png )
+![]( img/img13.png )
 
-* ### Langkah 7: Mengecek graph dan status dari branch. Setelah aman semua, selanjutnya saya melakukan merge kedua branch ini, antara `ParentSetyoRevisi` dengan `ChildSetyoRevisi` yang mana parent branchnya terletak pada `ParentSetyoRevisi`
+* ### Langkah 7: Mengecek graph dan status dari branch. Setelah aman semua, selanjutnya saya melakukan merge `fast-forward` kedua branch ini, antara `ParentSetyoRevisi` dengan `ChildSetyoRevisi` yang mana parent branchnya terletak pada `ParentSetyoRevisi`
 ![]( img/img8.png )
+![]( img/img14.png )
 
 
 * ### Langkah 8: Menghubungkan path git dengan repository yang ada di GitHub
