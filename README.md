@@ -1,3 +1,8 @@
+# **Muhamad Bintang Alfarizki**
+
+## Universitas Indraprasta PGRI
+
+## Jakarta Timur
 
 # **Tugas 1: Versioning**
 ## **Laporan Tugas Git**
@@ -45,3 +50,5 @@
   ![Gambar9](img/Gambar9.png)
 ---
 ## **Terima Kasih :)**
+
+## **Sama-Sama :)**
