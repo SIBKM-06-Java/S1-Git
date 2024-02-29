@@ -1,6 +1,7 @@
 # Tugas Versioning
 ## Pembukaan
-(Insert Picture) Membuat tempat untuk menyimpan proyek. Hal ini bisa dilakukan dengan command `cd "lokasi folder(disarankan untuk melakukan copy-paste untuk menghindari kesalahan lokasi)`.
+https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%20(1326).png
+Membuat tempat untuk menyimpan proyek. Hal ini bisa dilakukan dengan command `cd "lokasi folder(disarankan untuk melakukan copy-paste untuk menghindari kesalahan lokasi)`.
 (Insert picture) Berikutnya melakukan inisialisasi dengan command `git init`. Command ini akan membuat folder .git tetapi hidden. Tetapi, folder dapat dimunculkan. (Insert picture folder git).
 (Insert Picture) Berikutnya, membuat branch baru dengan `git branch NamaBranchParentBaru` atau `git checkout -b NamaBranchBaru`. Jika sudah punya branch parent tetapi ingin di-*rename*, bisa dengan command `git branch -m NamaLama NamaBaru`.
 (Insert picture) Berikutnya, membuat file yang diinginkna dengan command `touch nama_file.formatfile`. File tersebut akan langsung muncul secara otomatis pada folder yang lokasinya sudah ditentukan sebelumnya. (Insert picture).
@@ -14,3 +15,8 @@
 (Insert picture) Dengan begitu fast-forward akan muncul menandakan bahwa perubahan file telah berubah menjadi file yang sesuai dengan child branch.
 (Insert picture) Berikutnya menghapus branch hotfix.
 (Insert picture) Setelahnya update ke git hub dengan cara menambah remote origin. Cek apakah sudah terhubungan dengan command `git remote-v`. Setelahnya lakukan update dengan command `git push origin NamaBranch
+## Three Way Merge
+(Insert picture) Kembali ke branch child lalu melakukan perubahan pada file seperti biasa. Setelahnya melakukan command add dan commit untuk menyimpan perubahan pada local repo.
+(Insert picture) Kembali ke branch parent lalu melakukan perubahan pada posisi yang sama dengan perubahan yang dilakukan pada branch child. setelahnya melakukan add . dan commit.
+(Insert picture) tetapi akan terjadi conflict. Cara menyelesaikannya cukup dengan menyimpan perubahan file yang diinginkan dengan cara menghapus yang tidak diperlukan. Lalu lakukan command add . dan commit.
+(Insert picture) Setelah solve conflict, lakukan merge di github.
