@@ -21,13 +21,12 @@
  ### 1. Fast Forward
 
 - Buatlah Folder projeck
- ![](img/1. Buat Folder Projeck.png.png)
+ ![](<img/1. Buat Folder Projeck.png.png>)
 
 - Buka Git bash dan ketikkan cd "Path-project"
  ![Alt text](img/2.png.png)
 
-- Buatlah File README.md dan file txt (Bebas)
-- Kemudian Ketikkan git add . untuk mengubah status perubahan file menjadi staging area.
+- Buatlah File README.md dan file txt (Bebas), dan Ketikkan git add . untuk mengubah status perubahan file menjadi staging area.
  ![Alt text](img/3.png.png)
 
 - Lalu ketikkan git commit -m "Pesan" untuk mengubah status perubahan file ke repo seperti yang ada di gambar.
@@ -65,21 +64,21 @@
 ![Alt text](img2/5.png.png)
 
 - Kemudian lakukan add dan commit pada perubahan yang terjadi.
-![Alt text]()
+![Alt text](img2/6.png.png)
 
 -kemudian cek graph nya dengan melihat jalurnya , apakah sudah keluar dari parent apa belum.
-![Alt text]()
+![Alt text](img2/7.png.png)
 
 - Jika sudah maka selanjutnya adalah memperbaiki konflik menggunakan IDE VSCODE apply change.
-![Alt text]()
+![Alt text](img2/8.png.png)
 
 - selanjutnya akan ada commitan baru karena file telah dimodified di atas.
-![Alt text]()
+![Alt text](img2/9.png.png)
 
 - selanjutnya lakukan pull origin Parentfakhmi
-![Alt text]()
+![Alt text](img2/10.png.png)
 
-- langkah terakhir adalah git push ke repo server github.
+- Dan terakhir adalah git push ke repo server github.
 ![Alt text]()
 =======
 1
