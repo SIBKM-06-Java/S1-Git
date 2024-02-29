@@ -1,2 +1,4 @@
 Text ini ditulis oleh parent
 update from parent
+
+update from child 1
