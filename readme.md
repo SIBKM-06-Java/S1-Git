@@ -2,4 +2,4 @@
 
 ### fastforward - branch Childandi
 
-#### Three Way Merge - parentandi
+#### Three Way Merge - Childandi
