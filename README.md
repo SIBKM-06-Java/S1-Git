@@ -45,3 +45,5 @@ pertama kita cek menggunakan code **`git remote -v`**, jika kosong gunakan code 
 # jika ada yang salah terhadap langkah"nya mohon para sepuh bisa diajarin
 
 # Terima Kasih
+
+### Three Way Merge - ParentAde
