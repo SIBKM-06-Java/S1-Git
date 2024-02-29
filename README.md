@@ -24,3 +24,5 @@
 
 8. melakukan merge pada parent karena script pada child tidak muncul
 ![alt text](img/merge.jpg)
+
+## Terima Kasih
