@@ -31,4 +31,4 @@
 #### Query Git diatas telah ditampilkan dan dijelaskan secara urut. Selanjutnya akan dilanjutkan SS Git.
 
 ## **Screenshot Lanjutan Query Git**
-![](img/image.png)
+![](img/finalGit.png)
