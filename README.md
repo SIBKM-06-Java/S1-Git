@@ -1,2 +1,3 @@
 LINE PERTAMA ---PARENT
 LINE KEDUA == parent
+LINE KETIGA == child
