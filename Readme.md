@@ -181,12 +181,13 @@ Selain itu, Menambahkan perubahan pada file, seperti pada gambar dibawah ini:
 
 ## Langkah 6
 
+### 6.1 Melakukan Pull Request dan merge langsung di github:
 Melakukan pull request dan merge dengan perintah dibawah ini
 ![Alt Text](./img/Pasted%20image%2020240229090526.png)
 
 ![Alt Text](./img/Pasted%20image%2020240229085505.png)
 
-Pull Request dari branch ChildIhsanKurnia ke branch ParentIhsanKurnia
+Pull Request dari branch ChildIhsanKurnia ke branch ParentIhsanKurnia langsung di github:
 ![Alt Text](./img/Pasted%20image%2020240229085805.png)
 ![Alt Text](./img/git_pullrequest.png)
 
@@ -194,5 +195,20 @@ Pull Request dari branch ChildIhsanKurnia ke branch ParentIhsanKurnia
 ![Alt Text](./img/Pasted%20image%2020240229090209.png)
 ![Alt Text](./img/git_pullrequest.png)
 
-Pull request berhasil dan melakukan merge branch:
+Pull request berhasil dan melakukan merge branch langsung di github:
 ![Alt Text](./img/Pasted%20image%2020240229090432.png)
+
+### 6.2 Melakukan Pull Request dan merge di local
+
+#### Mengambil perubahan terbaru dari remote repository ke dalam branch ParentIhsanKurnia.
+![Alt Text](./img/gitpullorigin.png)
+
+#### Memastikan pindah branch ParentIhsanKurnia
+![Alt Text](./img/gitcheckout.png)
+
+#### Menggabungkan perubahan dari branch ChildIhsanKurnia ke dalam branch ParentIhsanKurnia
+![Alt Text](./img/gitmerge.png)
+
+#### Mengirim perubahan yang telah di-merge ke remote repository.
+![Alt Text](./img/gitpushpr.png)
+
