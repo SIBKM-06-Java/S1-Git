@@ -1,4 +1,5 @@
 # Melakukan Fast Forward
+ # -----------------
  
 <<<<<<< HEAD
 Hallo nama saya Rony
@@ -8,7 +9,7 @@ Hallo nama saya Rony
    ![init](Screen_Shoot_Git\01.jpg)
 
 
- ##  2. ` Masuk ke branch revisiParentRony,lalu membuat perubahan dan akan melakukan commit` 
+ ## 2. ` Masuk ke branch revisiParentRony,lalu membuat perubahan dan akan melakukan commit` 
 
    ![init](Screen_Shoot_Git/gitcheckoutrony.jpg)
     
@@ -37,11 +38,11 @@ Hallo nama saya Rony
 
 # Melakukan Three Way Merge
 
- ## 7. Pull Request
+ ## 7. `Pull Request`
     
-   ![init](Screen_Shoot_Git/pullRequest.jpg)
+   ![init](Screen_Shoot_Git/pullRequest.jpeg)
 
- ## 8. git clone
+ ## 8. `git clone`
    
    ![init](Screen_Shoot_Git/gitclone.jpg)
 
