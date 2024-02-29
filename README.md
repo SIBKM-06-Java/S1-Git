@@ -37,14 +37,29 @@ push branch child ke repository Github
 
 
 ### Three Way Merge
+Three-way merge adalah teknik yang digunakan oleh sistem kontrol versi seperti Git untuk menggabungkan perubahan dari dua branch yang berbeda dengan basis umum yang sama.
+
+langkah langkah melakukan three way merge :
+
+Pertama membuat commit yang berbeda dikedua branch , kemudian push ke github.
+![Gambar](img/push%20branch%20child.jpeg)
 
 
+Kedua lakukan pull pada branch child
+![Gambar](img/%20pull%20child.jpeg)
 
 
+Ketiga selesaikan konflik dengan IDE VS Code
+![Gambar](img/%20conflict%20.jpeg)
 
-### Fullstack Java Programming
+
+Ke empat Setelah berhasil menyelesaikan konflik kemudian push perubahan ke github
+![Gambar](img/push%20after%20conflict.jpeg)
+
+
+Selesai, sekarang kita bisa melakukan pull request tanpa terjadi konflik
+![Gambar](img/pull%20request.jpeg)
 
 
 ### Terimakasih
 
-##### Nia
