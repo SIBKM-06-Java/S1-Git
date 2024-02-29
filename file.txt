@@ -1,9 +1,9 @@
 GIT VERSIONING
 - Belajar Github
     - Perintah dasar git:
-        - git init
-        - git add .
-        - git commit -m ""
+        - git init          : Menginisialisasi git repository di folder local
+        - git add .         : Menambahkan file yang ada pada local
+        - git commit -m ""  : Menyimpan perubahan file
         - git remote -v
         - git push
         - git log
