@@ -44,4 +44,32 @@
   ####
   ![Gambar9](img/Gambar9.png)
 ---
+**2.** **Three Way Merge**
+---
+* **Step 1** - Melakukan **`git clone git@github.com:SIBKM-06-Java/S1-Git.git`** untuk meng-*clone* projectnya, setelah itu kita *checkout* ke *branch parent* dan *branch child* kita, pastikan **`git status`** aman.
+  ####
+  ![Three1](img/THREE1.png)
+---
+* **Step 2** - Mengakses *parent* dan *child branch* untuk memodifikasi masing-masing *file* yang sama, sehingga kedua *branch* tersebut memiliki konflik karena memiliki perubahan.
+  ####
+  ![THREE2](img/THREE2.png)
+  ####
+  ![THREE3](img/THREE3.png)
+  ####
+  ![THREE4](img/THREE4.png)
+---
+* **Step 3** - Setelah itu, kita melakukan *git pull* **`git pull origin ParentBintangRevisi`**. Setelah itu ikuti proses *merge changes* di IDE, lalu jika sudah, balik lagi ke *Git Bash* untuk melakukan *commit and push*.
+  ####
+  ![THREE5](img/THREE5.png)
+  ####
+  ![THREE6](img/THREE6.png)
+  ####
+  ![THREE7](img/THREE7.png)
+---
+* **Step 4** - Setelah selesai semua, akan ada tampilan dari *graphses* yang melihatkan bahwasanya sudah berhasil penggabungan kedua *branch*, lalu dilanjutkan ke *Pull Request*.
+  ####
+  ![THREE8](img/THREE8.png)
+---
 ## **Terima Kasih :)**
+
+## **Sama-Sama :)**
