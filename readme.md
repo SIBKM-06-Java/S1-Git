@@ -6,7 +6,7 @@
 
 ## pasti dong
 
-## Ganti nama branch buat fast forward
+## Three way merge
 
 ## mencoba PR yang di sarankan
 
