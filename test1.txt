@@ -1,1 +1,3 @@
 ini adalah file test1
+
+ini ParentDzikri
