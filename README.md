@@ -1,4 +1,4 @@
-# Implementasi Skenario Git
+# Laporan Implementasi Skenario Git
 
 ## Nama
 Ahmad Danang Surya Wicaksana
