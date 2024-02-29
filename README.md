@@ -25,7 +25,13 @@ Hallo nama saya Rony
     ![init](Screen_Shoot_Git/gagalmerge.jpg)
 
  5. `Push File yang sudah di commit sebelum pengabungan branch`
+   
     ![init](Screen_Shoot_Git/pushrony.jpg)
+
+ 6. `Melakukan merge kepada revisiParent dan berhasil`
+
+    ![init](Screen_Shoot_Git/merge.jpg)
+    ![init](Screen_Shoot_Git/Berhasil.jpg)
 
      
 
