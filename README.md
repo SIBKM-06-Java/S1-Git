@@ -77,4 +77,10 @@
 ![]( img/img27.png )
 
 
+* ### Langkah 8: Kita masuk pada GitHub, gambar pertama itu kita set title, set reviewers, dan Assignees. Lalu pada gambar kedua kita kilk `confirm` dan pada gambar ketiga klik `confirm merge`
+![]( img/img28.png )
+![]( img/img30.png )
+![]( img/img29.png )
+
+
 ## TERIMA KASIH...
