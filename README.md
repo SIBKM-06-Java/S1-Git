@@ -1,14 +1,18 @@
 # Melakukan Fast Forward
  
- `Melakukan git init`
-<img src="Screen_Shoot_Git/01">
+ 1. `Melakukan git init`
 
-`membuat branch baru dengan nama BlackDragon, membuat perubahan dan membuat branch baru  `
-`dan juga mengubah isi dari brach"
-<img src="Screen_Shoot_Git/02">
+    ![init](Screen_Shoot_Git\01.jpg)
 
-` menggabungkan antara dua buah branch`
-<img src="Screen_Shoot_Git/03">
+
+ 2. `membuat branch baru dengan nama BlackDragon, membuat perubahan dan membuat branch baru` 
+    `dan juga mengubah isi dari brach`
+
+    ![init](Screen_Shoot_Git/02.jpg)
+
+ 3. `menggabungkan antara dua buah branch`
+
+    ![init](Screen_Shoot_Git/03.jpg)
 
 
 # Melakukan Three Way Merge
