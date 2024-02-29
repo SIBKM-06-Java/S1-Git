@@ -6,12 +6,15 @@
 
 ## pasti dong
 
-## Three way merge
+## Ganti nama branch buat fast forward
 
 ## mencoba PR yang di sarankan
 
 ### test
 
+<<<<<<< HEAD
+### testtt
+=======
 # Step 1 
 Pertama tama membuat floder lalu memasukan folder tersebut ke repo git
 ![result init](img/git_init.PNG)
@@ -54,3 +57,4 @@ melakukan merge di web dengan tambahan ada atasan dan bawahan untuk menconfirm d
 # Step 11
 melakukan clone data inti untuk menambahkan data lagi
 ![result pull](img/clone.PNG)
+>>>>>>> ParentWaly
