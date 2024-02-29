@@ -35,3 +35,6 @@ Fast Forward
 
 10. hasil akhir
 ![alt text](img/6.jpg)
+
+## Three Way
+
