@@ -14,9 +14,12 @@
 
 ## - Switch branch matching in repository - ChildKhaidar
 
+## - Three Ways Merging
+
 ## - Pull github branch from existing repository - ChildKhaidar
 
 ## - Three Ways Merging
+
 
 ## - Three ways merging - ParentKhaidar
 
