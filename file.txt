@@ -1,2 +1,9 @@
 GIT VERSIONING
 - Belajar Github
+    - Perintah dasar git:
+        - git init
+        - git add .
+        - git commit -m ""
+        - git remote -v
+        - git push
+        - git log
