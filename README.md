@@ -38,4 +38,5 @@
 - ![pushchild](images/pushchild.png)
 
 # 2. Three Way Merge (revisi)
+- Three Way Merge -Child
 - Three Way Merge -Parent
