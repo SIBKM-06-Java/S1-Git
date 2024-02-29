@@ -1,5 +1,7 @@
 ## Tugas Faza - GIT
 
-### Fast Forward - ChildFazaRevisi
+### Fast Forward - branch ChildFazaRevisi
+
+### Three way merge - ChildFazaRevisi
 
 ### Three way merge - ParentFazaRevisi
