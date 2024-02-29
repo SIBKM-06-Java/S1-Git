@@ -1,6 +1,8 @@
 # SETYO ARDIKA PUTRA
 ## Tugas Git
 
+## 1. FAST-FORWARD Merge
+
 * ### Langkah 1: Disini saya membuat folder baru terlebih dahulu.
 ![]( img/img_1.png )
 
@@ -44,5 +46,35 @@
 * ### menambahkan beberapa file gambar yang terletak di folder `img` dan `README.md` yang baru.
 ![]( img/img15.png )
 ![]( img/img16.png )
+
+
+## 2. THREE WAY MERGE & SOLVE CONFLICT
+* ### Langkah 1: Membuat folder baru untuk repository `S1-Git/`.
+![]( img/img17.png )
+
+* ### Langkah 2: Mengecek branch dan switch ke branch `ParentSetyoRevisi`. 
+![]( img/img18.png )
+
+
+* ### Langkah 3: Selanjutnya melakukan edit di branch child dan parent hingga nantinya menghasilkan sebuah solve conflict. Melakukan pull pada branch `ChildSetyoRevisi` seperti gambar berikut ini:
+![]( img/img19.png )
+
+* ### Langkah 4: Selanjutnya mengecek status pada setiap branch dan melakukan alias untuk graph yaitu `git log -- decorate --oneline --graph`, alias untuk graphs yaitu `git log --all --decorate --oneline --graph`. Setelah alias berhasilmaka saya akan mengecek `graph` dan `graphs`. 
+![]( img/img21.png )
+![]( img/img22.png )
+![]( img/img23.png )
+
+* ### Langkah 5: Setelah terjadi solve conflict, kita bisa menyelesaikannya melalui IDE yang digunakan, misalnya saya disini menggunakan `visual studio code`. Pada gambar pertama itu kita klik `Accept Both Changes` lalu klik `Resolve in Merge Editor`, sedangkan pada gambar kedua proses selanjutnya itu kita klik `Complete Merge`
+![]( img/img24.png )
+![]( img/img25.png )
+
+
+* ### Langkah 6: Selanjutnya mengecek status dan melakukan commit untuk manambahkan bebebrapa file baru.
+![]( img/img26.png )
+
+
+* ### Langkah 7: Mengecek kondisi `graphs` terbaru.
+![]( img/img27.png )
+
 
 ## TERIMA KASIH...
