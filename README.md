@@ -52,26 +52,22 @@
 
 ![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/12_revisi.png?raw=true)
 
-2.Merubah Sciprt README.md pada Child
+2.Melakukan Commit Untuk Perubahan pada Child
 ![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/13_revisi.png?raw=true)
 
-3.Melakukan Commit untuk perubahan Child
+3.Setelah itu masuk kembali ke branch parrent dan lakukan merge dengan Child maka akan menjadi seperti berikut,Solvingnya yaitu saya menerima perubahan pada Childnya.
 
 ![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/14_revisi.png?raw=true)
-
-4.Setelah itu masuk kembali ke branch parrent dan lakukan merge dengan Child maka akan menjadi seperti berikut,Solvingnya yaitu saya menerima perubahan pada Childnya.
-
 ![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/15_revisi.png?raw=true)
 
-5.Kemudian membuat pull request baru di github.
-
+4.Kemudian membuat Pull Request pada github.
 ![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/16_revisi.png?raw=true)
 
-6.Selanjutnya lakukan merge pull request
+5.Selanjutnya lakukan merge pull request
 
 ![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/17_revisi.png?raw=true)
 
-7.Bila Sukses akan menjadi seperti ini maka akan secara otomatis Branch Parrent Akan menerima perubahan dari Child
+6.Bila Sukses akan menjadi seperti ini dan secara otomatis Branch Parrent Akan menerima perubahan dari Child
 
 ![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/18_revisi.png?raw=true)
 
