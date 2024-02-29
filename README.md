@@ -1,3 +1,5 @@
+# 1. Fast Forward
+
 ## Inisialisasi GIT
 - Buatlah sebuah folder
 - Klik kanan di dalam folder tersebut dan pilih git bash here
@@ -36,3 +38,33 @@
 - ![pushparent](images/pushparent.png)
 - Lakukan juga kepada branch child
 - ![pushchild](images/pushchild.png)
+
+# 2. Three Way Merging
+## Membuat dan Solving Conflict
+- Lakukan clone dari github(cloud) ke local repo
+- ![](images/gitclone.png)
+- kemudian masuk ke branch parent dan child
+- ![](images/branchin.png)
+- Edit file readme.md di branch parent agar nantinya akan terjadi    
+conflict dengan branch child
+- ![](images/editparent.png)
+- Lakukan commit dan push pada branch parent
+- ![](images/pushcommit.png)
+- lakukan hal yang sama pada branch child tapi jangan disamakan
+- ![](images/editchild.png)
+- lakukan commit.
+- git pull dari branch child ke branch parent
+- ![](images/Pulling.png)
+- Solve conflict dengan menggunakan vscode
+- ![](images/solving.png)
+- Pilih accept both changes nanti akan menjadi seperti dibawah
+- ![](images/bothchanges.png)
+- Lakukan commit dan pull sekali lagi
+- ![](images/pulls.png)
+- Buka repo di github dan lakukan open new pull request dengan branch parent sebagai base dan child parent sebagai subjek yang ingin dikomparasi
+- ![](images/createNewPR.png)
+- ![](images/createPR.png)
+- set reviewer dan assignee
+- ![](images/sett.png)
+- Accept Merge (seharusnya ini tidak dilakukan sendiri tanpa persetujuan reviewer namun dalam kasus ini hanyalah uji coba saja)
+- ![](images/mergePR.png)
