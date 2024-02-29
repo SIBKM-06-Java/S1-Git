@@ -10,15 +10,20 @@
 
 ## - Fast Forward - ParentKhaidar
 
-<<<<<<< HEAD
 ## - Clone github repository - ChildKhaidar
 
 ## - Switch branch matching in repository - ChildKhaidar
 
 ## - Three Ways Merging
-=======
+
+## - Pull github branch from existing repository - ChildKhaidar
+
+## - Three Ways Merging
+
+
 ## - Three ways merging - ParentKhaidar
->>>>>>> ParentKhaidar
+
+## - Pull request from parent to child - ParentKhaidar
 
 ## `Merging Success!!!`
 
@@ -51,3 +56,32 @@
 * Fast forward result
 
 ![pic : fast forward](img/fast_forward.png)
+
+* Pull parent branch
+![pic : pull](img/git_pull.png)
+
+* Clone github repo
+
+![pic : clone](img/clone_repo.png)
+
+* Clone result
+
+![pic : repo result](img/clone_result.png)
+
+* Switch existing branch
+
+![pic : switch branch](img/switch.png)
+
+* Three ways conflict
+
+![pic : twm code](img/three_ways_merge_conflict.png)
+
+* Three ways code
+
+![pic : twm compare](img/before_three_ways_merging.png)
+
+* Three ways result
+![pic : twm result](img/three_ways_resul_git.png)
+
+* Pull request from parent
+![pr](img/pr.png)
