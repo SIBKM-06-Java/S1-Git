@@ -45,7 +45,7 @@ mengambil data dari repo dengan cara pull cara ini tidak bisa bila terjadi konfl
 
 # Step 9
 membuat PR di web
-![result pull](img/git_pull.PNG)
+![result pull](img/Pull_Request_on_web.png)
 
 # Step 10
 melakukan merge di web dengan tambahan ada atasan dan bawahan untuk menconfirm data tersebut
