@@ -91,7 +91,7 @@
 ![alt text](img/TW_complete_merge.png)
 ![alt text](img/TW_result_conflict_child_after.png)
 
-- Lakukan `git commit` untuk menyimpan perubahaan Three Way Merge pada Child branch
+- Lakukan `git commit` untuk menyimpan perubahaan Three Way Merge pada Child branch lalu lakukan `git push`
 ![alt text](img/TW_commit_after_resolved_child.png)
 
 - Untuk merge pada branch Parent akan dilakukan dengan Pull Request. Masuk ke menu Pull Request di Repository GitHub
@@ -108,6 +108,5 @@
 ![alt text](TW_mergepullreq_done.png)
 
 - Setelah itu, branch Parent sudah terupdate!
-![alt text](img/TW_tempresult_parent.png)
-
+![alt text](img/TW_result_github_parent.png)
 
