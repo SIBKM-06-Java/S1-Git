@@ -17,16 +17,16 @@
 * ### Langkah 4: Selanjutnya saya disini mengecek status dari branch master. Diteruskan dengan menambahkan `README.md` ke dalam branch master.
 ![]( img/img4.png )
 
-* ### Langkah 5: Saya disini akan mengecek log dan graph pada branch master. Saya juga melakukan inisial untuk `log --all --decorate --oneline --graph` yaitu menjadi `graphs` dan mengecek branch yang tersedia
+* ### Langkah 5: Saya disini akan mengecek log dan graph pada branch master. Saya juga melakukan inisial untuk `log --all --decorate --oneline --graph` yaitu menjadi `graphs` dan mengecek branch yang tersedia.
 ![]( img/img5.png )
 
 
-* ### Langkah 6: Disini saya mengubah nama branch `master` menjadi `ParentSetyoRevisi` dan membuat branch child yaitu `ChildSetyoRevisi`. Setelah itu update `README.md` untuk branch `ChildSetyoRevisi`
+* ### Langkah 6: Disini saya mengubah nama branch `master` menjadi `ParentSetyoRevisi` dan membuat branch child yaitu `ChildSetyoRevisi`. Setelah itu update `README.md` untuk branch `ChildSetyoRevisi`.
 ![]( img/img6.png )
 ![]( img/img7.png )
 ![]( img/img13.png )
 
-* ### Langkah 7: Mengecek graph dan status dari branch. Setelah aman semua, selanjutnya saya melakukan merge `fast-forward` kedua branch ini, antara `ParentSetyoRevisi` dengan `ChildSetyoRevisi` yang mana parent branchnya terletak pada `ParentSetyoRevisi`
+* ### Langkah 7: Mengecek graph dan status dari branch. Setelah aman semua, selanjutnya saya melakukan merge `fast-forward` kedua branch ini, antara `ParentSetyoRevisi` dengan `ChildSetyoRevisi` yang mana parent branchnya terletak pada `ParentSetyoRevisi`.
 ![]( img/img8.png )
 ![]( img/img14.png )
 
@@ -35,6 +35,13 @@
 ![]( img/img9.png )
 
 
-* ### Langkah 9: Melakukan push pada masing-masing branch, yaitu branch `ParentSetyoRevisi` dan `ChildSetyoRevisi`
+* ### Langkah 9: Melakukan push pada masing-masing branch, yaitu branch `ParentSetyoRevisi` dan `ChildSetyoRevisi`.
 ![]( img/img10.png )
 ![]( img/img11.png )
+
+
+ ## Hasil screenshoot tambahan:
+* ### menambahkan beberapa file gambar yang terletak di folder `img` dan `README.md` yang baru.
+![]( img/img15.png )
+![]( img/img16.png )
+
