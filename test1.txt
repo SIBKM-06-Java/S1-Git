@@ -1,3 +1,5 @@
 ini adalah file test1
 
 ini ParentDzikri
+
+coba Three Way Merge - ParentDzikri
