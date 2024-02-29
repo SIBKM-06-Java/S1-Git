@@ -30,5 +30,25 @@
     <img src="/img/12.PNG" alt="Alt text" title="Optional title">
 11. Setelah conflict di solve, kemudian `git add .` dan `git push origin ChildGalihRevisi`
     <img src="/img/13.PNG" alt="Alt text" title="Optional title">
-12. berikut adalah graph dari branch ParentGalihRevisi dan ChildGalihRevisi.
+12. berikut adalah graph dari branch ParentGalihRevisi dan ChildGalihRevisi. <br>
     <img src="/img/14.PNG" alt="Alt text" title="Optional title">
+
+### Three Way Merge
+
+1. Clone repository S1-git menggunakan perintah `git clone git@github.com:SIBKM-06-Java/S1-Git.git` setelah proses clone selesai, masuk ke directory S1-git <br>
+   <img src="/img/three_1.PNG" alt="Alt text" title="Optional title"><br>
+2. Ganti branch ke ChildGalihRevisi menggunakan Perintah `git checkout ChildGalihRevisi`
+   <br>
+   <img src="/img/three_2.PNG" alt="Alt text" title="Optional title"><br>
+3. kemudian ketikkan perintah `git pull origin ParentGalihRevisi` untuk menyamakan isi file/folder dari branch ParentGalihRevisi
+   <br>
+   <img src="/img/three_3.PNG" alt="Alt text" title="Optional title"><br>
+4. Setelah selesai `git pull` makan akan terjadi conflict pada file README.md, dan diharuskan untuk solve conflict nya.
+   <br>
+   <img src="/img/three_4.PNG" alt="Alt text" title="Optional title"><br>
+5. Setelah Conflict sudah di solve, maka klik compare and pull request untuk melakukan pull request. saya melaukan pull request dari base ParentGalihRevisi ke ChildGalihRevisi
+   <br>
+   <img src="/img/three_5.PNG" alt="Alt text" title="Optional title"><br>
+6. Ketika ke dua branch tidak ada conflict, maka klik create pull request. kemudian klik merge pull request, setelah klik merge pull request, maka akan menampilkan.
+   <br>
+   <img src="/img/three_7.PNG" alt="Alt text" title="Optional title"><br>
