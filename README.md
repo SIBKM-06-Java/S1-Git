@@ -20,7 +20,11 @@
  4. `ketika adanya kesalahan pada penggabungan sehingga harus diundur`
 
     ![init](Screen_Shoot_Git/gagalmerge.jpg)
-    
+
+ 5. `Push File yang sudah di commit sebelum pengabungan branch`
+    ![init](Screen_Shoot_Git/pushrony.jpg)
+
+     
 
 # Melakukan Three Way Merge
 
