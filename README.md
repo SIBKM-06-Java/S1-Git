@@ -5,10 +5,13 @@
     ![init](Screen_Shoot_Git\01.jpg)
 
 
- 2. ` beralih ke branch revisiParentRony,lalu membuat perubahan setelah itu beralih ke branch BlackDragon ` 
-    `dan akan menggabungkan kedua branch menjadi satu dengan git pull`
+ 2. ` beralih ke branch revisiParentRony,lalu membuat perubahan dan akan melakukan commit` 
 
-    ![init](Screen_Shoot_Git/02.jpg)
+    ![init](Screen_Shoot_Git/gitcheckoutrony.jpg)
+    
+    ![init](Screen_Shoot_Git/filerony.jpg)
+    
+    ![init](Screen_Shoot_Git/updateRdanD.jpg)
 
  3. `menggabungkan antara dua buah branch`
 
