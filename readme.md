@@ -2,3 +2,5 @@
 ## Disini saya menambahkan satu line untuk ujicoba
 ## Disini adalah contoh penggunaan git add
 ## Disini line Kedua untuk uji coba merge conflict
+
+## Disini line pertama untuk uji coba merge conflict
