@@ -31,7 +31,13 @@
 <p align="center">
   <img src="img/6.PNG" />
 </p>
-7. Melakukan Clone Terhadap git@github.com:SIBKM-06-Java/S1-Git.git
+TREE WAY MERGE
+<P>
+7. Membuat Folder dan Melakukan Clone Terhadap git@github.com:SIBKM-06-Java/S1-Git.git
 <p align="center">
   <img src="img/7.PNG" />
+</p>
+8. 
+<p align="center">
+  <img src="img/.PNG" />
 </p>
