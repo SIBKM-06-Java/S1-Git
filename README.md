@@ -1,5 +1,7 @@
 # Versioning Using GIT & GITHUB
 
+## Add remote from github accout - ParentKhaidar
+
 ## Create parent branch - ParentKhaidar
 
 ## Create child branch - ChildKhaidar
