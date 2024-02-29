@@ -21,3 +21,6 @@ git add . => menambahkan file baru ke repository yang baru dipilih
 ## Fast Forward
 
 Langkah kedua,Melakukan merge Setelah menambahkan data yang diperlukan,,lalu mengganti branch dengan [git checkout (parent branch)] lalu melakukan merge dengan cara [git merge (child branch)]
+
+Three way Merge
+ChildPutri
