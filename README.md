@@ -12,3 +12,5 @@
 (Insert Picture) Karena perubahan dilakukan di child branch dan tidak pada parent branch, maka perlu diperbaiki dengan cara membuat branch baru dengan nama hotfix dan command `git checkout -b hotfix`.
 (Insert picture) Lalu melakukan command `vim FileYangDikerjakan.FormatFile`. Setelahnya melakukan komit untuk menyimpan perubahan pada local repo. Kembali ke parent branch lalu merge parent branch dengan hotfix dengan command `git merge hotfix`.
 (Insert picture) Dengan begitu fast-forward akan muncul menandakan bahwa perubahan file telah berubah menjadi file yang sesuai dengan child branch.
+(Insert picture) Berikutnya menghapus branch hotfix.
+(Insert picture) Setelahnya update ke git hub dengan cara menambah remote origin. Cek apakah sudah terhubungan dengan command `git remote-v`. Setelahnya lakukan update dengan command `git push origin NamaBranch
