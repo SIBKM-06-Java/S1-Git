@@ -1,11 +1,13 @@
 # Tugas Versioning
 ## Pembukaan
-![Alt text]([https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%20(1326).png](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20005429.png))
+![Alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20005429.png)
 Membuat tempat untuk menyimpan proyek. Hal ini bisa dilakukan dengan command `cd "lokasi folder(disarankan untuk melakukan copy-paste untuk menghindari kesalahan lokasi)`.
-(Insert picture) Berikutnya melakukan inisialisasi dengan command `git init`. Command ini akan membuat folder .git tetapi hidden. Tetapi, folder dapat dimunculkan. (Insert picture folder git).
-(Insert Picture) Berikutnya, membuat branch baru dengan `git branch NamaBranchParentBaru` atau `git checkout -b NamaBranchBaru`. Jika sudah punya branch parent tetapi ingin di-*rename*, bisa dengan command `git branch -m NamaLama NamaBaru`.
-(Insert picture) Berikutnya, membuat file yang diinginkna dengan command `touch nama_file.formatfile`. File tersebut akan langsung muncul secara otomatis pada folder yang lokasinya sudah ditentukan sebelumnya. (Insert picture).
-(Insert picture) Berikutnya, ganti isi file sesuai kebutuhan. Setelahnya, perubahan yang telah dilakukan ditambahkan ke staging area dengan command `git add .`.
+![Alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20005541.png) Berikutnya melakukan inisialisasi dengan command `git init`. Command ini akan membuat folder .git tetapi hidden. Tetapi, folder dapat dimunculkan. ![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20010513.png)
+![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20005803.png)
+Berikutnya, membuat branch baru dengan `git branch NamaBranchParentBaru` atau `git checkout -b NamaBranchBaru`. Jika sudah punya branch parent tetapi ingin di-*rename*, bisa dengan command `git branch -m NamaLama NamaBaru`.
+![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20011924.png)
+Berikutnya, membuat file yang diinginkna dengan command `touch nama_file.formatfile`. File tersebut akan langsung muncul secara otomatis pada folder yang lokasinya sudah ditentukan sebelumnya. ![](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20010513.png).
+![]() Berikutnya, ganti isi file sesuai kebutuhan. Setelahnya, perubahan yang telah dilakukan ditambahkan ke staging area dengan command `git add .`.
 (Insert picture) Berikutnya, jika tidak ada lagi yang ingin diganti bisa langsung dikomit agar hasil perubahan masuk ke repo local dengan cara `git commit -m "Judul Perubahan"`.
 ## Fast-Forward
 (Insert Picture) Pertama-tama, membuat brand child dengan command `git checkout -b NamaBranchBaru`. Command ini akan langsung mengganti menjadi branch baru. Perubahan yang dilakukan akan terjadi pada branch tersebut.
