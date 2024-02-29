@@ -18,7 +18,9 @@
 ## Branch
 - gunakan command "git checkout -b childRaihan" untuk membuat sekaligus berpindah ke branch baru
 - ![gitb](images/git-b.png)
-- lakukan add dan commit
+- lakukan add dan commit seperti biasa
+- bisa dilihat pada gambar dibawah hanya childParent saja yang berubah.
+- ![graphs](images/graphs.png)
 
 ## merging
--
+- 
