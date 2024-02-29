@@ -23,4 +23,16 @@
 - ![graphs](images/graphs.png)
 
 ## merging
-- 
+- Sebelum melakukan merging pindahkan dulu ke branch parent nya
+- gunakan command "git merge child" untuk melakukan merge dari parent ke child
+- ![merge](images/merge.png)
+- diliat dari graphs posisi parent dan child sudah sejajar
+- ![graphs2](images/graphs2.png)
+
+## Remote
+- perintah pada gambar dibawah ini untuk menghubungkan repo lokal kita ke repo cloud di github
+- ![remote](images/gitremote.png)
+- Kemudian kita akan melakukan push dari branch parent ke repo github
+- ![pushparent](images/pushparent.png)
+- Lakukan juga kepada branch child
+- ![pushchild](images/pushchild.png)
