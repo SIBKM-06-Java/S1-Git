@@ -16,6 +16,10 @@
  3. `Masuk ke branch BlackDragon, lalu membuat perubahan dan akan melkukan commit `
 
     ![init](Screen_Shoot_Git/blackDragon.jpg)
+
+ 4. `ketika adanya kesalahan pada penggabungan sehingga harus diundur`
+
+    ![init](Screen_Shoot_Git/gagalmerge.jpg)
     
 
 # Melakukan Three Way Merge
