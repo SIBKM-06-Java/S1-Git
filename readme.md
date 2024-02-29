@@ -39,4 +39,7 @@ TREE WAY MERGE
 </p>
 <p align="center">
   <img src="img/9.PNG" />
+8.Melakukan Perubahan Pada Parent.
+<p align="center">
+  <img src="img/8.PNG" />
 </p>
