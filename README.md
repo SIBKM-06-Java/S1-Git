@@ -10,6 +10,8 @@
 
 ## - Fast Forward - ParentKhaidar
 
+## - Three ways merging - ParentKhaidar
+
 ## `Merging Success!!!`
 
 # **Laporan**
