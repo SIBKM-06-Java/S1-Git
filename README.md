@@ -53,4 +53,5 @@ Langkah kedua,Melakukan merge Setelah menambahkan data yang diperlukan,,lalu men
 
 ## tips Three Way Merging
 
-Agar tidak terjadi konflik dalam data/file, lakukanlah add dan commit dengan massage " resolved conflick to ..." .Deangan begitu tidak terjadinya error mengenai three way merging
+2. Three Way Merge
+   ParentPutrimaharani (revisi)
