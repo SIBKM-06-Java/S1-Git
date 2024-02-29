@@ -2,4 +2,4 @@
 
 ### Fast Forward - ChildFazaRevisi
 
-### Three Way Merge - ParentRevisiFaza
+### Three way merge - ParentFazaRevisi
