@@ -17,9 +17,14 @@ pull      = mengambil commit dari repo
 
 ## Fast Forward
 
+## Okeyyy
+
+## Three Way Merging - ChildYofan
 ## Harus Dong
 
 ##  Three Way Merging
+<<<<<<< HEAD
+=======
 
 ## Report Tugas Git
 
@@ -47,3 +52,4 @@ Git Cloning
 ![Cloning](img/Git-Cloning.png)
 
 
+>>>>>>> c25c9e9c780d17def656bbd5ee4b02013fe9775f
