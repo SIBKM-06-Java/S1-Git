@@ -58,4 +58,16 @@
 
 ![](<img1/(14)%20push%20commit2.png>)
 
+### commit tambah foto
+
+![](img1/15%20commit%20tambah%20foto.png)
+
 ## FAST-FORWARD
+
+### Pindah ke branch ParentDzikri lalu merge branch ChildDzikri
+
+![](img1/16%20pindah%20branch%20dan%20merge%20branch.png)
+
+### Branch ParentDzikri dan ChildDzikri sudah ke merge
+
+![](img1/17%20sudah%20ke%20merge.png)
