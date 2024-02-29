@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Tugas Fakhmi Wahyu Ramdhani - Git
 
 ### Tugas Fast Forward - branch Childfakhmi
@@ -80,3 +81,6 @@
 
 - langkah terakhir adalah git push ke repo server github.
 ![Alt text]()
+=======
+1
+>>>>>>> 130769686d62f88deb30c1674f71fc1c47a31a18
