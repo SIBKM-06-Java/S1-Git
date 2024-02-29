@@ -9,7 +9,7 @@ Menginisialisasi git dengan menggunakan perintah berikut ini:
 git init
 ```
 
-![Alt Text](img/Screenshot (520).png)
+![Alt Text](./img/Screenshot (520).png)
 
 ## Langkah 2
 Membuat file.txt yang nantinya akan di push di repository, setelah itu mengecek perubahan yang ada pada git dengan perintah berikut ini
