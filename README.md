@@ -20,6 +20,8 @@
 
 ## - Three ways merging - ParentKhaidar
 
+## - Pull request from parent to child - ParentKhaidar
+
 ## `Merging Success!!!`
 
 # **Laporan**
@@ -77,3 +79,6 @@
 
 * Three ways result
 ![pic : twm result](img/three_ways_resul_git.png)
+
+* Pull request from parent
+![pr](img/pr.png)
