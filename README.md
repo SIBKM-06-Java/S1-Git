@@ -61,6 +61,8 @@ conflict dengan branch child
 - ![](images/bothchanges.png)
 - Lakukan commit dan pull sekali lagi
 - ![](images/pulls.png)
+
+## Open Pull Request
 - Buka repo di github dan lakukan open new pull request dengan branch parent sebagai base dan child parent sebagai subjek yang ingin dikomparasi
 - ![](images/createNewPR.png)
 - ![](images/createPR.png)
