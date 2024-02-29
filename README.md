@@ -8,10 +8,10 @@ Tugas ini bertujuan untuk mempraktikkan berbagai skenario dalam penggunaan Git, 
 ### Inisialisasi Repositori Lokal
 1. Buatlah folder baru dengan nama "Sinau_Git".
 2. Masuk ke dalam folder tersebut menggunakan terminal atau command prompt.
-3. Inisialisasi repositori lokal dengan perintah `git init`.
+3. Inisialisasi repositori lokal dengan perintah .
 
 ### Tambahkan Remote Repository
-4. Tambahkan remote repository dari organisasi "SIBKM-06-Java" dengan nama "origin" menggunakan perintah `git remote add origin git@github.com:SIBKM-06-Java/S1-Git.git`.
+4. Tambahkan remote repository dari organisasi "SIBKM-06-Java" dengan nama "origin" menggunakan perintah .
 
 ### Skenario Fast-Forward
 5. Buatlah dua branch: "ParentSuryaRevisi" dan "ChildSuryaRevisi".
