@@ -130,25 +130,24 @@ git pull origin <parentbranch>
 <img src="assets/three_way_merge/3.png" />
 <img src="assets/three_way_merge/4.png" />
 
-##### 3. Simulasikan Conflict Di Parent dan Child Ketika Merge
+##### 3. Simulasikan Conflict Di Child Branch Terhadap Parent Branch
 
-Pindah ke Parent Branch dan tidak melakukan merge dulu dari Child tetapi membuat content baru yang tidak dimiliki oleh child. Lalu push ke Github
+Setelah melakukan perubahan teks pada Child Branch, kembali lagi ke Parent Branch dan buat perubahan tetapi jangan melakukan merge dan Child agar ketika data terbaru dari Parent akan dipull ke Child, terjadi conflict.
 
 <img src="assets/three_way_merge/5.png" />
 
-Setelah itu lakukan merge biasa dari Child ke Parent yang akhirnya muncul notifikasi konflik
+Lalu, pindah ke Child Branch dan melakukan pull terhadap Parent
 
-<img src="assets/three_way_merge/6.png"/>
+<img src="assets/three_way_merge/6.png" />
 
-Klik `Accept Both Changes` lalu `Resolve in Merge Editor` dan `Complete` untuk menyelesaikan Conflict
+Disini, silahkan melakukan resolve merge dan complete jika sudah finish lalu commit merge lalu push ke github
 
-##### 4. Buat Pull Request di Github
+<img src="assets/three_way_merge/7.png" />
+<img src="assets/three_way_merge/8.png" />
 
-Pull Request dari Child ke Parent
-<img src="assets/three_way_merge/7.png"/>
+##### 4. Open Pull Request
 
-##### 5. Konfirmasi Merge di Pull Request
+Setelah itu, masuk ke github dan open PR baru lalu mengkoneksikan branch mana yang akan dicompare seperti Child ke Parent. Jangan lupa assign mentor sebagai reviewer dan akun kita sebagai assignees. Dalam dunia industri, yang boleh untuk melakukan merge hanya reviewer saja bukan assignees
 
-Jangan lupa menambahkan assignees dan reviewer di Pull Request
-
-<img src="assets/three_way_merge/8.png"/>
+<img src="assets/three_way_merge/9.png" />
+<img src="assets/three_way_merge/10.png" />
