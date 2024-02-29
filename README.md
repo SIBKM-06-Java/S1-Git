@@ -59,5 +59,7 @@
    ![git clone](/image/clone.png)
 
 2. **melakukan perobaan push dan solve conflict**
+    gagal push karena perbedaan line pada file antara remote repository dengan yang ada pada lokal. Perlu di pull lalu solve conflict dan lakukan push
+
 
 
