@@ -40,6 +40,8 @@
 ---
 * **Step 8** - Di saat semua sudah sempurna, maka kita akan melakukan *merge* dari *branch parent*, untuk itu akan dipindahkan ke *branch parent* terlebih dahulu. *Branch child* akan di-*merge* ke *branch parent* **`git merge ChildBintangRevisi`**. Setelah itu saya mencetak kembali *graph* yang menunjukkan posisi *parent* dan *child* sejajar kedudukannya setelah *merge*.
   ####
-  ![Gambar8](img/Gambar8.png) ~ ![Gambar9](img/Gambar9.png)
+  ![Gambar8](img/Gambar8.png)
+  ####
+  ![Gambar9](img/Gambar9.png)
 ---
 ## **Terima Kasih :)**
