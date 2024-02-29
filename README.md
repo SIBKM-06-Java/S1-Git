@@ -4,5 +4,4 @@
 
 ## TUGAS FAST FORWARD - Branch : ChildTeo
 
-## TUGAS THREE WAY MERGE
-git commit 
+## TUGAS THREE WAY MERGE - ParentTeo
