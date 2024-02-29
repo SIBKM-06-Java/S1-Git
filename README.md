@@ -32,4 +32,5 @@
 ![](img/finalGit.png)
 ![](img/git_remote1.png)
 ![](img/git_pushParent.png)
-![](img/it_pushChild.png)
+![](img/git_pushChild.png)
+![](img/add_image.png)
