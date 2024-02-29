@@ -16,8 +16,7 @@
  3. `Masuk ke branch BlackDragon, lalu membuat perubahan dan akan melkukan commit `
 
     ![init](Screen_Shoot_Git/blackDragon.jpg)
-    ![init](Screen_Shoot_Git/blackDragon.jpg)
-
+    
 
 # Melakukan Three Way Merge
 
