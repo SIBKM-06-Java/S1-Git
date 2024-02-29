@@ -28,7 +28,8 @@
 #### Kembali ke branch parent dan lakukan merge branch child terhadap branch parent supaya kondisi Fast-Forward terpenuhi.
  ![](img/mergeFF.png)
 
-#### Query Git diatas telah ditampilkan dan dijelaskan secara urut. Selanjutnya akan dilanjutkan SS Git.
-
-## **Screenshot Lanjutan Query Git**
+#### Query Git diatas telah ditampilkan dan dijelaskan secara urut. Selanjutnya akan dilanjutkan SS Git untuk Fast-Forward.
 ![](img/finalGit.png)
+![](img/git_remote1.png)
+![](img/git_pushParent.png)
+![](img/it_pushChild.png)
