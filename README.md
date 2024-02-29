@@ -42,12 +42,20 @@
 
 ![](<img1/(8)%20cek%20commit.png>)
 
-### menambahkan kan line baru di text1.txt
-
 ### Membuat branch baru dengan nama ChildDzikri dan pindah ke branch tersebut
 
 ![](<img1/(11)%20buat%20branch%20child.png>)
 
-###
+### Menambahkan kalimat pada line 3 di text1.txt (saya lupa untuk ss add dan commitnya)
 
-### FAST-FORWARD
+![](<img1/(12)%20tambah%20line%20di%20child.png>)
+
+### cek commit (saya pindah ke terminal git bash di dalam vs code)
+
+![](<img1/(13)%20cek%20commit2.png>)
+
+### Push commit2 ke repo github
+
+![](<img1/(14)%20push%20commit2.png>)
+
+## FAST-FORWARD
