@@ -9,7 +9,7 @@ Menginisialisasi git dengan menggunakan perintah berikut ini:
 git init
 ```
 
-![[Screenshot (520).png]]
+![[img/Screenshot (520).png]]
 
 ## Langkah 2
 Membuat file.txt yang nantinya akan di push di repository, setelah itu mengecek perubahan yang ada pada git dengan perintah berikut ini
@@ -18,7 +18,7 @@ Membuat file.txt yang nantinya akan di push di repository, setelah itu mengecek 
 git status
 ```
 
-![[Screenshot (522).png]]
+![[img/Screenshot (522).png]]
 
 ## Langkah 3
 Menambahkan dan commit perubahan file.txt dengan perintah berikut ini:
@@ -32,7 +32,7 @@ Perintah untuk perubahan commit:
 git commit -m "add: menambahkan file.txt"
 ```
 
-![[Screenshot (523) 1.png]]
+![[img/Screenshot (523) 1.png]]
 
 ## Langkah 4
 Membuat branch baru dan berpindah branch menggunakan perintah berikut ini:
