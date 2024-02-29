@@ -96,6 +96,27 @@
 
   ![Alt text](<images/Screenshot 2024-02-29 191635.png>)
 
-## Kemudian kita masuk ke branch kita pridai saja dengan cara dia atas.
+## Kemudian kita masuk ke branch kita pridi saja dengan cara dia atas.
 
+![Alt text](<images/Screenshot 2024-02-29 195823.png>)
+
+## Setelah kita up kita akan melakukan compare & pull request dengan mengeklik tombol compare & pull request
+ 
+![Alt text](<images/Screenshot 2024-02-29 195618.png>)
+
+## Kemudian kita base perentdimas sebagai file yang akan di updaet dan  compare childimas sebagai file comparel jika suda pilih create pull request untuk membuat pull
+
+ ![Alt text](<images/Screenshot 2024-02-29 195732.png>)
+
+## Kita tabakan fuad-zein Sebgaai Reviwers dan dimasaji1129(nama github kita) sebagai assignees jika sudah klik create pull request 
+
+ ![Alt text](<images/Screenshot 2024-02-29 200721.png>)
+
+## Disini kita tinggal commit saja untuk meng compare
+
+![Alt text](<images/Screenshot 2024-02-29 202047.png>) 
+
+## Untu meng update fie perentdimas di lokal kita ,kita tinggal gitpull saja seperti di atas 
+
+# SELESAI
 
