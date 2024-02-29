@@ -17,3 +17,7 @@ git commit => untuk melakukan commit
 git add . => menambahkan file baru ke repository yang baru dipilih
 
 ![alt text](<Screenshot 2024-02-29 081254.png>)
+
+## Fast Forward
+
+Langkah kedua,Melakukan merge Setelah menambahkan data yang diperlukan,,lalu mengganti branch dengan [git checkout (parent branch)] lalu melakukan merge dengan cara [git merge (child branch)]
