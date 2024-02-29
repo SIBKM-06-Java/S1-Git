@@ -1,5 +1,8 @@
 ini adalah file test1
 
+ini ChildDzikri
+
+Coba Three Way Merge - ChildDzikri
 ini ParentDzikri
 
 coba Three Way Merge - ParentDzikri
