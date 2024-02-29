@@ -24,7 +24,13 @@
 7. Berpindah ke branch child dengan perintah `git checkout ChildGhifary`. Kemudian melakukan push branch child ke repository GitHub dengan perintah `git push origin ChildGhifary`.
 ![Gambar7](img/Screenshot%20(507).png)
 
+---
 #### Three - Way Merging
+> **REVISI**
+>0. Melakukan clone repository GitHub ke lokal dengan command `git clone git@github.com:SIBKM-06-Java/S1-Git.git`.
+![Gambar0](img/Screenshot%20(500).png)
+>Note : Revisi dari [ParentGhifary](https://github.com/SIBKM-06-Java/S1-Git/tree/ParentGhifary), menambahkan step clone repo dengan screenshot.
+
 1. Skenario Three Way Merge & solve conflict. Conflict terjadi pada branch Parent dan Child yang disebabkan karena perbedaan perubahan yang terjadi pada file README.md setelah dicommit.
 ![Gambar8](img/Screenshot%20(509).png)
 
