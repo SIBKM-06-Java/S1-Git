@@ -33,3 +33,11 @@ push branch parent ke repository Github
 push branch child ke repository Github
 'git push origin Childrizkinia'
 ![Gambar](img/git%20merge.jpeg)
+
+
+
+
+
+### Terimakasih
+
+##### Nia
