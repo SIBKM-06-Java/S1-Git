@@ -42,23 +42,22 @@ Three-way merge adalah teknik yang digunakan oleh sistem kontrol versi seperti G
 langkah langkah melakukan three way merge :
 
 Pertama membuat commit yang berbeda dikedua branch , kemudian push ke github.
-![Gambar](img/push%20branch%20child.jpeg)
+![Gambar](https://github.com/SIBKM-06-Java/S1-Git/blob/Parentrizkinia/Three%20way%20merge.img/push%20branch%20child.jpeg?raw=true)
 
 
 Kedua lakukan pull pada branch child
-![Gambar](img/%20pull%20child.jpeg)
-
+![Gambar](https://github.com/SIBKM-06-Java/S1-Git/blob/Parentrizkinia/Three%20way%20merge.img/pull%20child.jpeg?raw=true)
 
 Ketiga selesaikan konflik dengan IDE VS Code
-![Gambar](img/%20conflict%20.jpeg)
+![Gambar](https://github.com/SIBKM-06-Java/S1-Git/blob/Parentrizkinia/Three%20way%20merge.img/conflict.jpeg?raw=true)
 
 
 Ke empat Setelah berhasil menyelesaikan konflik kemudian push perubahan ke github
-![Gambar](img/push%20after%20conflict.jpeg)
+![Gambar](https://github.com/SIBKM-06-Java/S1-Git/blob/Parentrizkinia/Three%20way%20merge.img/push%20after%20conflict.jpeg?raw=true)
 
 
 Selesai, sekarang kita bisa melakukan pull request tanpa terjadi konflik
-![Gambar](img/pull%20request.jpeg)
+![Gambar](https://github.com/SIBKM-06-Java/S1-Git/blob/Parentrizkinia/Three%20way%20merge.img/pull%20request.jpeg?raw=true)
 
 
 ### Terimakasih
