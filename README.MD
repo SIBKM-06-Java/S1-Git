@@ -73,3 +73,29 @@
  ![Alt text](<images/Screenshot 2024-02-29 033834.png>)
 
 ## Ini melakuna push dengan mengguna kan branch chlidimas
+
+
+
+# Disini kita akan melakukan Three Way Merge setelah solve conflict lakukan merge dengan cara pull request (pr) dan reviewer akun @fuad-zein &  assignees
+![Alt text](<images/Screenshot 2024-02-29 183531.png>)
+ 
+
+## Pertama kita melakukan git clone terlebih dahulu bertujuan untuk mengambil data dari cloud, pastikan kita berada di luar foder yang kita push di awal agar file kita tidak berantakan 
+
+
+ ![Alt text](<images/Screenshot 2024-02-29 185305.png>)
+
+## Kemudian kita cek apakan sudah ada di lokal repositori kita dengan cara ls -l ,kemudian jika sudah ada kita lansung buka foledernya dengan cara cd S1-Git/ kalo berhasil kita akan berada di branch default yaitu perentsamara
+![Alt text](<images/Screenshot 2024-02-29 185834.png>)
+ 
+
+## Kemudian kita cek apa kita suda terkoneksi dengan repo yang aka kita up 
+
+![Alt text](<images/Screenshot 2024-02-29 190825.png>)
+## Kemudian kita cek branch kita dengan cara git branch -r untuk melihar daftar branch
+
+  ![Alt text](<images/Screenshot 2024-02-29 191635.png>)
+
+## Kemudian kita masuk ke branch kita pridai saja dengan cara dia atas.
+
+
