@@ -3,12 +3,12 @@
 <<<<<<< HEAD
 Hallo nama saya Rony
 =======
- 1. `Melakukan git init`
+ ## 1. `Melakukan git init`
 
     ![init](Screen_Shoot_Git\01.jpg)
 
 
- 2. ` Masuk ke branch revisiParentRony,lalu membuat perubahan dan akan melakukan commit` 
+ ##  2. ` Masuk ke branch revisiParentRony,lalu membuat perubahan dan akan melakukan commit` 
 
     ![init](Screen_Shoot_Git/gitcheckoutrony.jpg)
     
@@ -16,19 +16,19 @@ Hallo nama saya Rony
     
     ![init](Screen_Shoot_Git/updateRdanD.jpg)
 
- 3. `Masuk ke branch BlackDragon, lalu membuat perubahan dan akan melkukan commit `
+ ## 3. `Masuk ke branch BlackDragon, lalu membuat perubahan dan akan melkukan commit `
 
     ![init](Screen_Shoot_Git/blackDragon.jpg)
 
- 4. `ketika adanya kesalahan pada penggabungan sehingga harus diundur`
+ ## 4. `ketika adanya kesalahan pada penggabungan sehingga harus diundur`
 
     ![init](Screen_Shoot_Git/gagalmerge.jpg)
 
- 5. `Push File yang sudah di commit sebelum pengabungan branch`
+ ## 5. `Push File yang sudah di commit sebelum pengabungan branch`
    
     ![init](Screen_Shoot_Git/pushrony.jpg)
 
- 6. `Melakukan merge kepada revisiParent dan berhasil`
+ ## 6. `Melakukan merge kepada revisiParent dan berhasil`
 
     ![init](Screen_Shoot_Git/merge.jpg)
     ![init](Screen_Shoot_Git/Berhasil.jpg)
@@ -37,11 +37,11 @@ Hallo nama saya Rony
 
 # Melakukan Three Way Merge
 
- 7. Pull Request
+ ## 7. Pull Request
     
     ![init](Screen_Shoot_Git/pullRequest.jpg)
 
- 8. git clone
+ ## 8. git clone
    
    ! ![init](Screen_Shoot_Git/gitclone.jpg)
 
