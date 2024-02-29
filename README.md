@@ -5,3 +5,4 @@
 ---
 ## LINE KELIMA -- CHILD 1.0v
 BRo Roo
+## LINE KEEMPAT --PARENT 1.0v
