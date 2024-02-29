@@ -1,5 +1,7 @@
 ## tugas git andi
 
-### fastforward - branch Childandi
+## fastforward - brach Childandi
 
-#### Thee Way Merge - Childandi
+### Three Way Merge - Childandi
+
+#### Three Way Merge - parent andi
