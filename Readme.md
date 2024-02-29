@@ -1,6 +1,6 @@
-# GIT FAST FORWARD
+# MUHAMMAD IHSAN KURNIA AL-KARIM
 
-## MUHAMMAD IHSAN KURNIA AL-KARIM
+## GIT FAST FORWARD  
 
 ## Langkah 1
 
@@ -37,7 +37,6 @@ Perintah untuk perubahan commit:
 git commit -m "add: menambahkan file.txt"
 ```
 
-![[img/Screenshot (523) 1.png]]
 ![Alt Text](<./img/Screenshot%20(523).png>)
 
 ## Langkah 4
@@ -87,7 +86,6 @@ Menghapus branch master dengan command berikut ini:
 git branch -d master
 ```
 
-![[Pasted image 20240229075430.png]]
 ![Alt Text](./img/Pasted%20image%2020240229075430.png)
 
 Melihat daftar branch yang tersedia di lokal dengan command berikut ini:
@@ -96,7 +94,6 @@ Melihat daftar branch yang tersedia di lokal dengan command berikut ini:
 git branch -a
 ```
 
-![[Pasted image 20240229075614.png]]
 ![Alt Text](./img/Pasted%20image%2020240229075614.png)
 
 
@@ -108,12 +105,10 @@ Push file yang ada di local ke repository dengan perintah berikut ini:
 git push --set-upstream origin ParentIhsanKurnia
 ```
 
-![[Pasted image 20240229080302.png]]
 ![Alt Text](./img/Pasted%20image%2020240229080302.png)
 
 
 ![Alt Text](./img/Pasted%20image%2020240229080225.png)
-![[Pasted image 20240229080225.png]]
 
 ## Langkah 8
 
@@ -123,8 +118,7 @@ Mengubah isi file.txt dan push ke branch ChildIhsanKurnia
 git push origin ChildIhsanKurnia
 ```
 
-![[Pasted image 20240229080750.png]]
-![Alt Text](./img/Pasted%20image%2020240229080750.png.png)
+![Alt Text](./img/Pasted%20image%2020240229080750.png)
 
 
 ![[Pasted image 20240229081114.png]]
@@ -141,7 +135,6 @@ Melakukan cloning dari repository dengan perintah berikut ini:
 git clone git@github.com:SIBKM-06-Java/S1-Git.git THREE-WAY-MERGING
 ```
 
-![[Pasted image 20240229082544.png]]
 ![Alt Text](./img/Pasted%20image%2020240229082544.png)
 
 ## Langkah 2
@@ -153,46 +146,37 @@ git branch -a
 ```
 
 ![Alt Text](./img/Pasted%20image%2020240229082746.png)
-![[Pasted image 20240229082746.png]]
 
 ## Langkah 3
 
 Membuat branch Parent dan Child
 
 ![Alt Text](./img/Pasted%20image%2020240229083326.png)
-![[Pasted image 20240229083326.png]]
 
 ![Alt Text](./img/Pasted%20image%2020240229083338.png)
-![[Pasted image 20240229083338.png]]
 
 ![Alt Text](./img/Pasted%20image%2020240229083349.png)
-![[Pasted image 20240229083349.png]]
 
 ## Langkah 4
 
 Membuat perubahan pada file.txt dan melakukan push ke repository:
 
 ![Alt Text](./img/Pasted%20image%2020240229084255.png)
-![[Pasted image 20240229084255.png]]
 
 ## Langkah 5
 
 Pindah branch dari Parent ke ChildIhsanKurnia
 
 ![Alt Text](./img/Pasted%20image%2020240229085156.png)
-![[Pasted image 20240229085156.png]]
 
 Menambahkan perubahan pada file:
 ![Alt Text](./img/Pasted%20image%2020240229085329.png)
-![[Pasted image 20240229085329.png]]
 
 ## Langkah 6
 
 Melakukan merge dan pull request:
-![[Pasted image 20240229090526.png]]
 ![Alt Text](./img/Pasted%20image%2020240229090526.png)
 
-![[Pasted image 20240229085505.png]]
 ![Alt Text](./img/Pasted%20image%2020240229085505.png)
 
 Pull Request:
@@ -203,5 +187,4 @@ Melakukan pull request
 ![Alt Text](./img/Pasted%20image%2020240229090209.png)
 
 Pull request berhasil:
-![[Pasted image 20240229090432.png]]
-![Alt Text](./img/Pasted%20image%2020240229090432.png.png)
+![Alt Text](./img/Pasted%20image%2020240229090432.png)
