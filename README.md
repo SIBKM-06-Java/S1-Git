@@ -12,11 +12,11 @@
 
 3.Menambahkan isi file Branch ParentAbiyyuRevisi
 
-![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/3_revisi_copy.png?raw=true)
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/3_revisi.png?raw=true)
 
 4.Menambahkan File Ke Staging Area
 
-![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/4_revisi_copy.png?raw=true)
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/4_revisi.png?raw=true)
 
 5.Melakukan Commit pada local repo branch ParrentAbiyyuRevisi
 
@@ -50,29 +50,29 @@
 
 1.Kita akan merubah file di Child
 
-![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/21_revisi.png?raw=true)
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/12_revisi.png?raw=true)
 
 2.Merubah Sciprt README.md pada Child
-![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/22_revisi.png?raw=true)
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/13_revisi.png?raw=true)
 
 3.Melakukan Commit untuk perubahan Child
 
-![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/23_revisi_copy.png?raw=true)
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/14_revisi_copy.png?raw=true)
 
 4.Setelah itu masuk kembali ke branch parrent dan lakukan merge dengan Child maka akan menjadi seperti berikut,Solvingnya yaitu saya menerima perubahan pada Childnya.
 
-![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/24_revisi.png?raw=true)
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/15_revisi.png?raw=true)
 
 5.Kemudian membuat pull request baru di github.
 
-![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/26_revisi.png?raw=true)
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/16_revisi.png?raw=true)
 
 6.Selanjutnya lakukan merge pull request
 
-![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/27_revisi.png?raw=true)
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/17_revisi.png?raw=true)
 
 7.Bila Sukses akan menjadi seperti ini maka akan secara otomatis Branch Parrent Akan menerima perubahan dari Child
 
-![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/28_revisi.png?raw=true)
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/18_revisi.png?raw=true)
 
 ## Sekian Dari Saya Terima Kasih
