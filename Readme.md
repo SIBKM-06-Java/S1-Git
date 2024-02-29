@@ -96,3 +96,59 @@ git merge <childbranch>
 
 <img src="assets/fast_forward/10.png"/>
 <img src="assets/fast_forward/11.png"/>
+
+# Three Way Merging
+
+Three-way merge terjadi ketika ada divergent changes di kedua branch yang ingin di-merge. Git menggunakan tiga commit sebagai dasar untuk menggabungkan perubahan:
+
+1. Commit terbaru dari branch saat ini (HEAD di branch target).
+2. Commit terbaru dari branch sumber yang ingin di-merge.
+3. Commit bersama yang menjadi titik terakhir di kedua branch sebelum terjadinya divergent changes (common ancestor).
+   Git secara otomatis mencoba untuk menggabungkan perubahan dari ketiga commit tersebut.
+
+##### 1. Clone Projek S1-Git
+
+Clone projek dari github ke local machine tetapi berasal dari Parent Branch masing-masing pengguna menggunakan
+
+```cs
+git clone -b <namabranch> <ssh/https>
+cd S1-Git
+code .
+```
+
+<img src="assets/three_way_merge/1.png" />
+
+##### 2. Buat File Content dan Push ke Github
+
+Buat file dummy di Parent Branch dan Child Branch seperti cara Fast-Forward sebelumnya. Child Parent bisa melakukan pull dari Parent untuk mendapatkan file baru dari Parent karena sekarang, Child Branch tidak membuat file melainkan hanya mengubah 1 file dari Parent saja
+
+```cs
+git pull origin <parentbranch>
+```
+
+<img src="assets/three_way_merge/2.png" />
+<img src="assets/three_way_merge/3.png" />
+<img src="assets/three_way_merge/4.png" />
+
+##### 3. Simulasikan Conflict Di Parent dan Child Ketika Merge
+
+Pindah ke Parent Branch dan tidak melakukan merge dulu dari Child tetapi membuat content baru yang tidak dimiliki oleh child. Lalu push ke Github
+
+<img src="assets/three_way_merge/5.png" />
+
+Setelah itu lakukan merge biasa dari Child ke Parent yang akhirnya muncul notifikasi konflik
+
+<img src="assets/three_way_merge/6.png"/>
+
+Klik `Accept Both Changes` lalu `Resolve in Merge Editor` dan `Complete` untuk menyelesaikan Conflict
+
+##### 4. Buat Pull Request di Github
+
+Pull Request dari Child ke Parent
+<img src="assets/three_way_merge/7.png"/>
+
+##### 5. Konfirmasi Merge di Pull Request
+
+Jangan lupa menambahkan assignees dan reviewer di Pull Request
+
+<img src="assets/three_way_merge/8.png"/>
