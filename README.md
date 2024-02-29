@@ -1,17 +1,33 @@
-# Melakukan Fast Forward
-<img src="/path/to/Screenshot (1312).png">
-## Membuat Project
-Hal pertama yang perlu dilakukan adalah menentukan lokasi project yang akan dibuat dengan [cd "lokasi penyimpanan"]. Setelahnya, melakukan inisialisasi dengan [git init]. Ini akan membuat folder hidden .git.
-## Permbuatan Branch Parent dan Child
-Membuat branch parent dengan [git checkout -b (nama_parent_branch)] dan membuat file baru untuk melakukan Fast Forward. Di sini, saya menggunakan README.md dengan cara [touch README.md]. Di sini saya melakukan perubahan langsung sebelum menyimpan perubahannya dengan  melakukan [git add .] dan [git commit -m "commit message"]. Setelahnya membuat branch child dengan commad yang sama dengan parent lalu menambah data sebelum menyimpannya dengan add dan commit.
-<img src="/path/to/Screenshot (1313).png">
-## Melakukan merge
-Setelah menambah data yang diperlukan, saya mengganti branch dengan [git checkout (parent branch)] lalu melakukan merge dengan cara [git merge (child branch)]
+# TUGAS VERSIONING
 
-#Skenario Three Way Merge dan solusinya
-<img src="/path/to/Screenshot (1320).png">
-## Membuat Skenario
-Sebelumnya, melakukan cloning terlebih dahulu lalu mencari lokasi proyek dengan cara yang sama seperti sebelumnya. Setelahnya membuat branch parent dan child dengan cara yang sama. Pada branch parent, mengisi hal yang diperlukan dan melakukan add dan commit lalu mengganti branch ke branch child dan melakukan hal yang sama. Setelahnya, kembali ke branch parent dan ubah data yang sebelumnya telah diganti di saat di branch child di posisi yang sama lalu melakukan add dan commit. Hal ini akan menyebabkan terjadinya konflik.
-<img src="/path/to/Screenshot (1319).png">
-## Solusi
-Seperti yang terlihat pada gambar, terdapat konflik dalam data/file. Solusinya tidak lain adalah memilih data yang ingin disimpan pada file lalu melakukan add dan commit dengan message mengatakan "resolved conflict." Dengan begitu, tidak akan ada error mengenai three way merge.
+# Langkah Pertama
+- Buatlah Folder Baru contoh "Belajar_Git" Kemudian Buka  folder tersebut
+![alt text](image.png)
+- Selanjutnya ketik git init 
+![alt text](image-1.png)
+- selanjut nya git status untuk mengecek sebuah perubahan 
+![all text](image-2.png)
+- Tambahkan "git add" + "git commit + git log 
+![alt text](<Cuplikan layar 2024-02-29 185727.png>)
+![alt text](<Cuplikan layar 2024-02-29 190019.png>)
+- "git checkout -b "childTamaraRevisi" untuk membuat sekaligus berpindah ke branch baru
+-  "git checkout -b "ParentTamaraRevisi" untuk membuat sekaligus berpindah ke branch baru
+![alt text](image-3.png)
+- Terlihat di gambar atas bahwa child dan parent sudah sama.
+- Remote dan Push branch parent ke repostory "github git remote add origin git@github.com:SIBKM-06-Java/S1-Git.git"
+![alt text](image-4.png)
+Terlihat pada gambar diatas bahwa git remote ku sudah ada dikarenakan saya memakai folder sebelumnya yang sudah saya buat dan pakai 
+
+# Langkah Kedua 
+- Three Ways Merge 
+- Lakukan clone tetapi kita harus keluar dari branch dan mengecek branch parent dan child
+![all text](<Cuplikan layar 2024-02-29 195327.png>)
+-Selanjutnya pull branch child ke parents
+![alt text](<Cuplikan layar 2024-02-29 200648.png>)
+
+- Selanjutnya Terjadi ERROR yang saya tidak tau apa yang salah, sudah mencoba tetapi tetap ERROR  
+![all text](<Cuplikan layar 2024-02-29 202017.png>)
+
+- Selanjutnya upload ke Git Hub
+
+
