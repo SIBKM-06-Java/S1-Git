@@ -37,4 +37,4 @@ Fast Forward
 ![alt text](img/6.jpg)
 
 
-## Three Way
+## Three Way Child
