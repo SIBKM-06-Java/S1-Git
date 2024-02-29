@@ -5,7 +5,7 @@
     ![init](Screen_Shoot_Git\01.jpg)
 
 
- 2. ` beralih ke branch revisiParentRony,lalu membuat perubahan dan akan melakukan commit` 
+ 2. ` Masuk ke branch revisiParentRony,lalu membuat perubahan dan akan melakukan commit` 
 
     ![init](Screen_Shoot_Git/gitcheckoutrony.jpg)
     
@@ -13,9 +13,9 @@
     
     ![init](Screen_Shoot_Git/updateRdanD.jpg)
 
- 3. `menggabungkan antara dua buah branch`
+ 3. `Masuk ke branch BlackDragon, lalu membuat perubahan dan akan melkukan commit `
 
-    ![init](Screen_Shoot_Git/03.jpg)
+    ![init](Screen_Shoot_Git/blackDragon.jpg)
 
 
 # Melakukan Three Way Merge
