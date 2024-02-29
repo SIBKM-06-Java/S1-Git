@@ -1,6 +1,6 @@
 # Tugas Versioning
 ## Pembukaan
-![Alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%20(1326).png)
+![Alt text]([https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%20(1326).png](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentTsamarahRevisi/Screenshot%202024-02-29%20005429.png))
 Membuat tempat untuk menyimpan proyek. Hal ini bisa dilakukan dengan command `cd "lokasi folder(disarankan untuk melakukan copy-paste untuk menghindari kesalahan lokasi)`.
 (Insert picture) Berikutnya melakukan inisialisasi dengan command `git init`. Command ini akan membuat folder .git tetapi hidden. Tetapi, folder dapat dimunculkan. (Insert picture folder git).
 (Insert Picture) Berikutnya, membuat branch baru dengan `git branch NamaBranchParentBaru` atau `git checkout -b NamaBranchBaru`. Jika sudah punya branch parent tetapi ingin di-*rename*, bisa dengan command `git branch -m NamaLama NamaBaru`.
