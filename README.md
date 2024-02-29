@@ -70,3 +70,6 @@
   ####
   ![THREE8](img/THREE8.png)
 ---
+## **Terima Kasih :)**
+
+## **Sama-Sama :)**
