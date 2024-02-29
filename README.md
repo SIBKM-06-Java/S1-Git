@@ -36,3 +36,6 @@
 - ![pushparent](images/pushparent.png)
 - Lakukan juga kepada branch child
 - ![pushchild](images/pushchild.png)
+
+# 2. Three Way Merge (revisi)
+- Three Way Merge -Parent
