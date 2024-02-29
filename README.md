@@ -2,6 +2,9 @@
 
 ### Laporan tugas Git
 - Implementasi yang sudah dipelajari terkait Git
+- Buat skenario Fast-Forward  dengan membuat branch Parent & branch Child
+
+- Membuat skenario Three Way Merge & Solve Conflict :
 - Buat skenario Fast-Forward dengan membuat branch Parent: ex. ParentNama & branch Child: ex. ChildNama
 
 ## **Fast-Forward**
