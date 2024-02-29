@@ -4,6 +4,6 @@ GIT VERSIONING
         - git init          : Menginisialisasi git repository di folder local
         - git add .         : Menambahkan file yang ada pada local
         - git commit -m ""  : Menyimpan perubahan file
-        - git remote -v
-        - git push
-        - git log
+        - git remote -v     : Menambahkan link repository github ke local komputer
+        - git push          : Mengirim perubahan ke repository github
+        - git log           : Melihat perubahan pada log

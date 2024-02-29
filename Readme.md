@@ -1,4 +1,6 @@
-# MUHAMMAD IHSAN KURNIA AL-KARIM
+# TUGAS VERSIONING MENGGUNAKAN GITHUB
+### MUHAMMAD IHSAN KURNIA AL-KARIM
+### METRODATA ACADEMY
 
 ## GIT FAST FORWARD  
 
@@ -47,7 +49,6 @@ Membuat branch baru dan berpindah branch menggunakan perintah berikut ini:
 git checkout -b ParentIhsanKurnia
 ```
 
-![[img_createAndSwitchBranch.png]]
 ![Alt Text](./img/img_createAndSwitchBranch.png)
 
 ## Langkah 5
@@ -66,7 +67,6 @@ Perintah untuk mengecek repository github yang tersimpan di local:
 git remote -v
 ```
 
-![[Pasted image 20240229073607.png]]
 ![Alt Text](./img/Pasted%20image%2020240229073607.png)
 
 
@@ -74,7 +74,6 @@ git remote -v
 
 Membuat branch baru yang bernama"ChildIhsanKurnia":
 
-![[Pasted image 20240229074853.png]]
 ![Alt Text](./img/Pasted%20image%2020240229074853.png)
 
 
@@ -97,8 +96,7 @@ git branch -a
 ![Alt Text](./img/Pasted%20image%2020240229075614.png)
 
 
-## Langkah 7
-
+## Langkah 8
 Push file yang ada di local ke repository dengan perintah berikut ini:
 
 ```bash
@@ -110,8 +108,7 @@ git push --set-upstream origin ParentIhsanKurnia
 
 ![Alt Text](./img/Pasted%20image%2020240229080225.png)
 
-## Langkah 8
-
+## Langkah 9
 Mengubah isi file.txt dan push ke branch ChildIhsanKurnia
 
 ```bash
@@ -121,7 +118,6 @@ git push origin ChildIhsanKurnia
 ![Alt Text](./img/Pasted%20image%2020240229080750.png)
 
 
-![[Pasted image 20240229081114.png]]
 ![Alt Text](./img/Pasted%20image%2020240229081114.png)
 
 
@@ -148,43 +144,60 @@ git branch -a
 ![Alt Text](./img/Pasted%20image%2020240229082746.png)
 
 ## Langkah 3
-
 Membuat branch Parent dan Child
-
+```bash
+git checkout -b ParentIhsanKurnia origin/ParentIhsanKurnia
+```
 ![Alt Text](./img/Pasted%20image%2020240229083326.png)
 
+```bash
+git checkout -b ChildIhsanKurnia origin/ChildIhsanKurnia
+```
+
 ![Alt Text](./img/Pasted%20image%2020240229083338.png)
+
+Melihat list branch yang telah tersedia di local:
+```bash
+git branch
+```
 
 ![Alt Text](./img/Pasted%20image%2020240229083349.png)
 
 ## Langkah 4
-
 Membuat perubahan pada file.txt dan melakukan push ke repository:
 
 ![Alt Text](./img/Pasted%20image%2020240229084255.png)
 
 ## Langkah 5
 
-Pindah branch dari Parent ke ChildIhsanKurnia
+
+Karena tadi masih berada di branch parent. Maka perlu pindah branch dari ParentIhsanKurnia ke ChildIhsanKurnia
 
 ![Alt Text](./img/Pasted%20image%2020240229085156.png)
 
-Menambahkan perubahan pada file:
+Selain itu, Menambahkan perubahan pada file, seperti pada gambar dibawah ini:
 ![Alt Text](./img/Pasted%20image%2020240229085329.png)
 
 ## Langkah 6
 
-Melakukan merge dan pull request:
+Melakukan pull request dan merge dengan perintah dibawah ini
 ![Alt Text](./img/Pasted%20image%2020240229090526.png)
 
 ![Alt Text](./img/Pasted%20image%2020240229085505.png)
 
-Pull Request:
+Pull Request dari branch ChildIhsanKurnia ke branch ParentIhsanKurnia
 ![Alt Text](./img/Pasted%20image%2020240229085805.png)
 
-Melakukan pull request
-![[Pasted image 20240229090209.png]]
-![Alt Text](./img/Pasted%20image%2020240229090209.png)
 
-Pull request berhasil:
+![Alt Text](./img/Pasted%20image%2020240229090209.png)
+![Alt Text](./img/git_pullrequest.png)
+
+Pull request berhasil dan melakukan merge branch:
 ![Alt Text](./img/Pasted%20image%2020240229090432.png)
+
+## Tambahan
+ laporan readme.md dan menambahkan perubahan pada file.txt
+
+![Alt Text](./img/git_pullrequest.png)
+![Alt Text](./img/git_file_ss.png.png)
+
