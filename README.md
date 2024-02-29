@@ -36,9 +36,9 @@
 
 9.Kemudian Beralih ke Branch ParrentAbiyyuRevisi dan lakukan merge untuk file README dari ChildAbiyyuRevisi
 
-![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/9._revisipng?raw=true)
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/9._revisi.png?raw=true)
 
-![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/10._revisipng?raw=true)
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/10._revisi.png?raw=true)
 
 11.Dapat Kita Lihat Disini Prosess Fast Forward telah berhasil.
 
@@ -57,7 +57,7 @@
 
 3.Melakukan Commit untuk perubahan Child
 
-![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/14_revisi_copy.png?raw=true)
+![alt text](https://github.com/SIBKM-06-Java/S1-Git/blob/ParentAbiyyuRevisi/images/14_revisi.png?raw=true)
 
 4.Setelah itu masuk kembali ke branch parrent dan lakukan merge dengan Child maka akan menjadi seperti berikut,Solvingnya yaitu saya menerima perubahan pada Childnya.
 
