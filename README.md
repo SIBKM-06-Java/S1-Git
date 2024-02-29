@@ -32,6 +32,16 @@ pertama kita cek menggunakan code **`git remote -v`**, jika kosong gunakan code 
 ## 9. melakukan push pada ParentAde dan ChildAde dengan menggunakan code ini untuk push ParentAde**`$ git push --set-upstream origin ParentdAde`** dan code ini untuk push ChildAde **`$ git push --set-upstream origin ChildAde`** 
 ![gambar 9](img/gambar%209.png)
 #
+## untuk pushnya lagi bisa ikutin langkah ini, **`git status`** lalu **`git add .`** lalu **`git commit -m "add: laporan tugas"`** dan **`git push`**
+![](img/gambar14.png)
+#
+## untuk keseluruhan codenya
+![](img/gambar10.png)
+![](img/gambar11.png)
+![](img/gambar%2012.png)
+![](img/gambar%2013.png)
+![](img/gambar10.png)
+#
 # jika ada yang salah terhadap langkah"nya mohon para sepuh bisa diajarin
 
 # Terima Kasih
