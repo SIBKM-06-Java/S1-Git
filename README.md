@@ -1,7 +1,7 @@
 # Implementasi Skenario Git
 
-## Deskripsi Tugas
-Tugas ini bertujuan untuk mempraktikkan berbagai skenario dalam penggunaan Git, termasuk Fast-Forward, Three Way Merge, dan penyelesaian konflik. Tugas terdiri dari beberapa langkah, mulai dari inisialisasi repositori hingga melakukan merge dan menyelesaikan konflik.
+## Nama
+Ahmad Danang Surya Wicaksana
 
 ## Langkah-langkah Implementasi
 
