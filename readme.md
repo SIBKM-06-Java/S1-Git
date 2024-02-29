@@ -43,3 +43,44 @@ TREE WAY MERGE
 <p align="center">
   <img src="img/8.PNG" />
 </p>
+9. Melakukan commit dan push pada childMar.
+<p align="center">
+  <img src="img/10.PNG" />
+</p>
+10.Melakukan Pull pada pada parentMar di childMar.
+<p align="center">
+  <img src="img/11.PNG" />
+</p>
+11.Melakukan Merge Both Changes.
+<p align="center">
+  <img src="img/12.PNG" />
+</p>
+<p align="center">
+  <img src="img/13.PNG" />
+</p>
+12.Melakukan Commit setelah file di merge.
+<p align="center">
+  <img src="img/14.PNG" />
+</p>
+13.Melakukan Pull Request.
+<p align="center">
+  <img src="img/15.PNG" />
+</p>
+<p align="center">
+  <img src="img/16.PNG" />
+</p>
+14.Melakukan Merge pull request.
+<p align="center">
+  <img src="img/17.PNG" />
+</p>
+<p align="center">
+  <img src="img/18.PNG" />
+</p>
+15.Penghapusan ChildMar.
+<p align="center">
+  <img src="img/19.PNG" />
+</p>
+16.Melakukan Pull parentMar agar terupdate.
+<p align="center">
+  <img src="img/20.PNG" />
+</p>
