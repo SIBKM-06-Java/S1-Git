@@ -30,5 +30,5 @@
     <img src="/img/12.PNG" alt="Alt text" title="Optional title">
 11. Setelah conflict di solve, kemudian `git add .` dan `git push origin ChildGalihRevisi`
     <img src="/img/13.PNG" alt="Alt text" title="Optional title">
-    berikut adalah graph dari branch ParentGalihRevisi dan ChildGalihRevisi.
+12. berikut adalah graph dari branch ParentGalihRevisi dan ChildGalihRevisi.
     <img src="/img/14.PNG" alt="Alt text" title="Optional title">
