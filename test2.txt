@@ -1,1 +1,2 @@
 Text ini ditulis oleh parent
+update from parent
