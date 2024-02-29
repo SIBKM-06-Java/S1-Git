@@ -34,3 +34,6 @@
 ![](img/git_pushParent.png)
 ![](img/git_pushChild.png)
 ![](img/add_image.png)
+
+
+## **Three Way Merge**
