@@ -45,5 +45,3 @@
   ![Gambar9](img/Gambar9.png)
 ---
 ## **Terima Kasih :)**
-
-## **Sama-Sama :)**
