@@ -10,6 +10,12 @@
 
 ## - Fast Forward - ParentKhaidar
 
+## - Clone github repository - ChildKhaidar
+
+## - Switch branch matching in repository - ChildKhaidar
+
+## - Three Ways Merging
+
 ## `Merging Success!!!`
 
 # **Laporan**
